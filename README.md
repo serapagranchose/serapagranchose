@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a french developper and I like things simple yet effective
+I'm a french developer and I like things simple yet effective
 
 ___
 <p align="center">
