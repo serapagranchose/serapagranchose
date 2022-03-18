@@ -1,5 +1,3 @@
-# Serapagranchose
-
 ### Description:
 A Github to store, organize and show people all my projects
 
