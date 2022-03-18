@@ -1,6 +1,12 @@
-### Hello there 👋
+# Serapagranchose
 
-I'm a french developer and I like things simple yet effective
+### Description:
+A Github to store, organize and show people all my projects
+
+### Contains:
+- Websites
+- Games
+- Tools
 
 ___
 <p align="center">
