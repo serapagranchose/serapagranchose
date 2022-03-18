@@ -2,9 +2,11 @@
 A Github to store, organize and show people all my projects
 
 ### Contains:
-- Websites
-- Games
-- Tools
+- A website to show peoples who am I and what I do
+- A script to set my configuration on unix systems
+- A 2D game that wavers between the classic platformer and the puzzle-game
+- A 2D party game
+- A workshop to learn Pygame
 
 ___
 <p align="center">
