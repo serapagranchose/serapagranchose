@@ -2,7 +2,7 @@
 
 # Github
 
-A Github to store, organize and show people all my projects
+A platform to store, organize and show people all of my projects
 
 ## Contains:
 
