@@ -1,7 +1,11 @@
-### Description:
+<img src="https://github.com/gilbarbara/logos/blob/master/logos/github-icon.svg" width="75" height="75" align="right"/>
+
+# Github
+
 A Github to store, organize and show people all my projects
 
-### Contains:
+## Contains:
+
 - A website to show peoples who am I and what I do
 - A script to set my configuration on unix systems
 - A 2D game that wavers between the classic platformer and the puzzle-game
