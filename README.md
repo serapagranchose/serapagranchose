@@ -7,15 +7,15 @@ A platform to store, organize and show people all of my projects
 ## Contains:
 
 - Website:
-  - [ ] **serapagranchose.dev:** A website to show peoples who am I and what I do
+  - **serapagranchose.dev:** A website to show peoples who am I and what I do
 - Video games:
-  - [x] **Sight cycle:** A 2D game that wavers between the classic platformer and the puzzle-game
-  - [x] **Forge repair:** A 2D party game
-  - [x] **Dungeon sweeper:** A 2D game that mix the dungeon crawler genre and the game mine sweaper
+  - **Sight cycle:** A 2D game that wavers between the classic platformer and the puzzle-game
+  - **Forge repair:** A 2D party game
+  - **Dungeon sweeper:** A 2D game that mix the dungeon crawler genre and the game mine sweaper
 - Scripts:
-  - [ ] **Unix configuration:** A script to set my configuration on unix systems
+  - **Unix configuration:** A script to set my configuration on unix systems
 - Workshops:
-  - [ ] **Pygame workshop:** A workshop to learn Pygame
+  - **Pygame workshop:** A workshop to learn Pygame
 
 ## Stats:
 <p align="center">
