@@ -6,6 +6,7 @@ A file to show who I am and what I do
 
 - **Of:**
     - [**Markdown**](https://www.markdownguide.org/getting-started/)**:** A lightweight markup language to write text with formatting elements
+    - [**GitHub Readme Stats**](https://github.com/anuraghazra/github-readme-stats)**:** An API to show github profile stats
 
 - **With:**
     - [**Love**](https://rebrand.ly/r1ckr0l13r)**:** A secret ingredient that I put in every project
