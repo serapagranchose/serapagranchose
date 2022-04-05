@@ -17,12 +17,15 @@ A file to show what projects my github contains and my projects statistics
 
 - **Website:**
   - [**serapagranchose.dev**](https://github.com/serapagranchose/serapagranchose.dev)**:** A website to show peoples who am I and what I do
+
 - **Video games:**
   - [**Sight cycle**](https://github.com/serapagranchose/sight_cycle)**:** A 2D game that wavers between the classic platformer and the puzzle-game
   - [**Forge repair**](https://github.com/serapagranchose/forge_repair)**:** A 2D party game
   - [**Dungeon sweeper**](https://github.com/serapagranchose/dungeon_sweeper)**:** A 2D game that mix the dungeon crawler genre and the game mine sweaper
+
 - **Scripts:**
   - [**Unix configuration**](https://github.com/serapagranchose/unix_configuration)**:** A script to set my configuration on unix systems
+
 - **Workshops:**
   - [**Pygame workshop**](https://github.com/serapagranchose/pygame_workshop)**:** A workshop to learn Pygame
 
