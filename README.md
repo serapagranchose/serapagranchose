@@ -16,7 +16,7 @@ A profile README to show who I am and what I do
 ## Projects:
 
 - **Websites:**
-    - [**serapagranchose.dev**](https://github.com/serapagranchose/serapagranchose.dev)**:** A website to show peoples who am I and what I do
+    - [**serapagranchose.dev**](https://github.com/serapagranchose/serapagranchose.dev)**:** A website to show who am I and what I do
 
 - **Video games:**
     - [**Sight cycle**](https://github.com/serapagranchose/sight_cycle)**:** A 2D game that wavers between the classic platformer and the puzzle-game
