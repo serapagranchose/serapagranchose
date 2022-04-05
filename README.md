@@ -1,7 +1,10 @@
 # README.md
 
-I am Seraphin "serapagranchose" Perrot a french developer
-I love to make things simpler and more efficient but it requires to understand them, that is why I like to remake from scratch already existing projects
+I am Seraphin "serapagranchose" Perrot a french developer  
+
+I love to make things simpler and more efficient but it requires to understand them  
+That is why I like to remake from scratch already existing projects  
+
 My favorite part of programming is helping people, including myself
 
 ## Projects:
