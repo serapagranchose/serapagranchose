@@ -1,18 +1,8 @@
-# serapagranchose
+# README.md
 
-A file to show who I am and what I do
-
-## Made:
-
-- **Of:**
-    - [**Markdown**](https://www.markdownguide.org/getting-started/)**:** A lightweight markup language to write text with formatting elements
-    - [**GitHub Readme Stats**](https://github.com/anuraghazra/github-readme-stats)**:** An API to show github profile stats
-
-- **With:**
-    - [**Love**](https://rebrand.ly/r1ckr0l13r)**:** A secret ingredient that I put in every project
-
-- **For:**
-    - [**Me**](https://github.com/serapagranchose)**:** A developper who likes to learn by making
+I am Seraphin "serapagranchose" Perrot a french developer
+I love to make things simpler and more efficient but it requires to understand them, that is why I like to remake from scratch already existing projects
+My favorite part of programming is helping people, including myself
 
 ## Projects:
 
