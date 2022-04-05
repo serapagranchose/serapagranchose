@@ -1,23 +1,32 @@
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/github-icon.svg" width="75" height="75" align="right"/>
 
-# Github
+# serapagranchose
 
-A platform to store, organize and show people all of my personal projects
+A file to show what projects my github contains and my projects statistics
+
+## Made:
+
+- **Of:**
+    - [Markdown](https://www.markdownguide.org/getting-started/): A lightweight markup language to write text with formatting elements
+- **With:**
+    - [Love](https://rebrand.ly/r1ckr0l13r): A secret ingredient that I put in every project
+- **For:**
+    - [Me](https://github.com/serapagranchose): A developper who likes to learn by making
 
 ## Contains:
 
-- Website:
-  - **serapagranchose.dev:** A website to show peoples who am I and what I do
-- Video games:
-  - **Sight cycle:** A 2D game that wavers between the classic platformer and the puzzle-game
-  - **Forge repair:** A 2D party game
-  - **Dungeon sweeper:** A 2D game that mix the dungeon crawler genre and the game mine sweaper
-- Scripts:
-  - **Unix configuration:** A script to set my configuration on unix systems
-- Workshops:
-  - **Pygame workshop:** A workshop to learn Pygame
+- **Website:**
+  - [**serapagranchose.dev**](https://github.com/serapagranchose/serapagranchose.dev)**:** A website to show peoples who am I and what I do
+- **Video games:**
+  - [**Sight cycle**](https://github.com/serapagranchose/sight_cycle)**:** A 2D game that wavers between the classic platformer and the puzzle-game
+  - [**Forge repair**](https://github.com/serapagranchose/forge_repair)**:** A 2D party game
+  - [**Dungeon sweeper**](https://github.com/serapagranchose/dungeon_sweeper)**:** A 2D game that mix the dungeon crawler genre and the game mine sweaper
+- **Scripts:**
+  - [**Unix configuration**](https://github.com/serapagranchose/unix_configuration)**:** A script to set my configuration on unix systems
+- **Workshops:**
+  - [**Pygame workshop**](https://github.com/serapagranchose/pygame_workshop)**:** A workshop to learn Pygame
 
-## Stats:
+## Statistics:
 <p align="center">
   <a href="https://rebrand.ly/r1ckr0l13r">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=serapagranchose&cache_seconds=1800&theme=outrun&title_color=8080ff&text_color=ff1aff&icon_color=8080ff&hide=prs,issues&show_icons=true&line_height=30&hide_border=true&border_radius=0"/>
