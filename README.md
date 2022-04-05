@@ -7,11 +7,11 @@ A file to show what projects my github contains and my projects statistics
 ## Made:
 
 - **Of:**
-    - [Markdown](https://www.markdownguide.org/getting-started/): A lightweight markup language to write text with formatting elements
+    - [**Markdown**](https://www.markdownguide.org/getting-started/)**:** A lightweight markup language to write text with formatting elements
 - **With:**
-    - [Love](https://rebrand.ly/r1ckr0l13r): A secret ingredient that I put in every project
+    - [**Love**](https://rebrand.ly/r1ckr0l13r)**:** A secret ingredient that I put in every project
 - **For:**
-    - [Me](https://github.com/serapagranchose): A developper who likes to learn by making
+    - [**Me**](https://github.com/serapagranchose)**:** A developper who likes to learn by making
 
 ## Contains:
 
