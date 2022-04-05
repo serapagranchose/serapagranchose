@@ -1,6 +1,6 @@
 # serapagranchose
 
-A profile README to show who I am and what I do
+A file to show who I am and what I do
 
 ## Made:
 
