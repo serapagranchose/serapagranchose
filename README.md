@@ -1,11 +1,9 @@
 # serapagranchose/README.md
 
-I am Séraphin "serapagranchose" Perrot a french developer  
+I am Séraphin "serapagranchose" Perrot
 
-I love to make things simpler and more efficient but it requires to understand them  
-That is why I like to remake from scratch already existing projects  
-
-My favorite part of programming is helping people, including myself
+I like to make unique projects
+When I don't have my head full of ideas I simplify and optimize existing ones
 
 ## Projects:
 
