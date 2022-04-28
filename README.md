@@ -2,7 +2,7 @@
 
 I am Séraphin "serapagranchose" Perrot
 
-I like to make unique projects
+I like to make unique projects  
 When I don't have my head full of ideas I simplify and optimize existing ones
 
 ## Projects:
