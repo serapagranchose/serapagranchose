@@ -9,17 +9,19 @@ When I don't have my head full of ideas I simplify and optimize existing ones
 
 - **Websites:**
     - [**serapagranchose.dev**](https://github.com/serapagranchose/serapagranchose.dev)**:** A website to show who am I and what I do
+    - [**serapagranchose.shop**](https://github.com/serapagranchose/serapagranchose.shop)**:** A webstore to sell what I do
+    - [**randomrecipinglist.app**](https://github.com/serapagranchose/randomrecipinglist.app)**:** A webapp to get a random food shopping list
+    - [**collectorlist.app**](https://github.com/serapagranchose/collectorlist.app)**:** A webapp to organize collections
+    - [**tierstierlist.com**](https://github.com/serapagranchose/tierstierlist.com)**:** A website to make tier list of everything
 
 - **Video games:**
-    - [**Sight cycle**](https://github.com/serapagranchose/sight_cycle)**:** A 2D game that wavers between the classic platformer and the puzzle-game
-    - [**Forge repair**](https://github.com/serapagranchose/forge_repair)**:** A 2D party game
-    - [**Dungeon sweeper**](https://github.com/serapagranchose/dungeon_sweeper)**:** A 2D game that mix the dungeon crawler genre and the game mine sweaper
+    - [**Kobold Colony**](https://github.com/serapagranchose/kobold-colony)**:** An ant simulator video game in the theme of role-playing game
+    - [**Dungeon Sweeper**](https://github.com/serapagranchose/dungeon-sweeper)**:** A video game that mix the dungeon crawler genre and the game mine sweaper
+    - [**Sight Cycle**](https://github.com/serapagranchose/sight-cycle)**:** A video game that wavers between the classic platformer and the puzzle-game
+    - [**Forge Repair**](https://github.com/serapagranchose/forge-repair)**:** A party video game in the theme of medieval fantasy
 
 - **Scripts:**
-    - [**Unix configuration**](https://github.com/serapagranchose/unix_configuration)**:** A script to set my configuration on unix systems
-
-- **Workshops:**
-    - [**Pygame workshop**](https://github.com/serapagranchose/pygame_workshop)**:** A workshop to learn Pygame
+    - [**Unix Configuration**](https://github.com/serapagranchose/unix_configuration)**:** A script to set my configuration on unix systems
 
 ## Statistics:
 <p align="center">
