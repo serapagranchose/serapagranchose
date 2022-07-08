@@ -16,7 +16,7 @@ When I don't have my head full of ideas I simplify and optimize existing ones
 
 - **Video games:**
     - [**Kobold Colony**](https://github.com/serapagranchose/kobold-colony)**:** A game that makes you control a Kobold who leads his colony to the top
-    - [**Dungeon Sweeper**](https://github.com/serapagranchose/dungeon-sweeper)**:** A video game that mix the dungeon crawler genre and the game mine sweaper
+    - [**Dungeon Sweeper**](https://github.com/serapagranchose/dungeon-sweeper)**:** A game that makes you control a knight in a misty dungeon filled with monsters
     - [**Sight Cycle**](https://github.com/serapagranchose/sight-cycle)**:** A video game that wavers between the classic platformer and the puzzle-game
     - [**Forge Repair**](https://github.com/serapagranchose/forge-repair)**:** A party video game in the theme of medieval fantasy
 
