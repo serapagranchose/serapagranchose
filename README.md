@@ -21,7 +21,7 @@ When I don't have my head full of ideas I simplify and optimize existing ones
     - [**Forge Repair**](https://github.com/serapagranchose/forge-repair)**:** A party video game in the theme of medieval fantasy
 
 - **Scripts:**
-    - [**Unix Configuration**](https://github.com/serapagranchose/unix_configuration)**:** A script to set my configuration on unix systems
+    - [**Unix Configuration**](https://github.com/serapagranchose/unix_configuration)**:** A script that sets my configuration on unix systems
 
 ## Statistics:
 <p align="center">
