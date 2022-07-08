@@ -12,7 +12,7 @@ When I don't have my head full of ideas I simplify and optimize existing ones
     - [**serapagranchose.shop**](https://github.com/serapagranchose/serapagranchose.shop)**:** A webstore to sell what I do
     - [**randomrecipinglist.app**](https://github.com/serapagranchose/randomrecipinglist.app)**:** A webapp that helps people by giving a random recipe according to certain criteria
     - [**collectorlist.app**](https://github.com/serapagranchose/collectorlist.app)**:** A webapp that helps collectors track their collections
-    - [**tierstierlist.com**](https://github.com/serapagranchose/tierstierlist.com)**:** A website to make tier list of everything
+    - [**tierstierlist.com**](https://github.com/serapagranchose/tierstierlist.com)**:** A website that centralizes user tierlists to make general tierlists of anything and everything
 
 - **Video games:**
     - [**Kobold Colony**](https://github.com/serapagranchose/kobold-colony)**:** An ant simulator video game in the theme of role-playing game
