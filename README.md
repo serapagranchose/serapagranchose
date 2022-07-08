@@ -8,7 +8,7 @@ When I don't have my head full of ideas I simplify and optimize existing ones
 ## Projects:
 
 - **Websites:**
-    - [**serapagranchose.dev**](https://github.com/serapagranchose/serapagranchose.dev)**:** A website that promotes what I do as a developer
+    - [**serapagranchose.dev**](https://github.com/serapagranchose/serapagranchose.dev)**:** A website that shows what I do as a developer
     - [**serapagranchose.shop**](https://github.com/serapagranchose/serapagranchose.shop)**:** A webstore to sell what I do
     - [**randomrecipinglist.app**](https://github.com/serapagranchose/randomrecipinglist.app)**:** A webapp to get a random food shopping list
     - [**collectorlist.app**](https://github.com/serapagranchose/collectorlist.app)**:** A webapp to organize collections
