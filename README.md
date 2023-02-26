@@ -6,22 +6,15 @@ I like to make unique projects.
 When I don't have my head full of ideas I simplify and optimize existing ones.  
 My main focus is web developpment but I'm curious about all technologies and I'm a quick learner.  
 
-## Skills:
-- **Tech related:**
-    - **Programming languages:**
-        - C, C++, Java, JavaScript, TypeScript, Python, PHP, Lua
-    - **Libraries:**
-        - React, Redux, Anime.js, Chart.js, JQuery
-    - **Frameworks:**
-        - React Native, Jest, Svelte, SvelteKit, Symfony, Laravel, Next.js, Vue.js
-    - **Others:**
-        - Git, Node.js, MySQL, Docker, Amazon S3
-<br></br>
-- **Non-tech related:**
-    - **Languages:**
-        - French (Native), English (TOEIC: 795), Spanish (B1), Korean
-    - **Softwares:**
-        - Krita, Photoshop, Asesprite
+## Tech Skills:
+- **Programming languages:**
+    - C, C++, Java, JavaScript, TypeScript, Python, PHP, Lua
+- **Libraries:**
+    - React, Redux, Anime.js, Chart.js, JQuery
+- **Frameworks:**
+    - React Native, Jest, Svelte, SvelteKit, Symfony, Laravel, Next.js, Vue.js
+- **Others:**
+    - Git, Node.js, MySQL, Docker, Amazon S3
 
 ## Experiences:
 - **Front stack web developer - [Chantiercarre](https://www.chantiercarre.fr) - Tourcoing, France - 04/2022 to 07/2022**
@@ -29,8 +22,8 @@ My main focus is web developpment but I'm curious about all technologies and I'm
 - **Full stack web developer - [S Com System](https://s-com-system.fr) - Roubaix, France - 07/2020 to 12/2020**
 
 ## Education:
-- **Engineer programmation - [Epitech](https://s-com-system.fr) - Lille, France - 07/2020 until now**
-- **Engineer programmation - [Inha University](https://s-com-system.fr) - Incheon, South Korea - 07/2020 until now**
+- **Programmation Engineer - [Epitech](https://www.epitech.eu/fr/formations/epitech-en-5-ans) - Lille, France - 07/2020 until now**
+- **Programmation Engineer - [Inha University](https://eng.inha.ac.kr/eng/index.do) - Incheon, South Korea - 07/2020 until now**
 - **High-School Degree - [Lycée André Malraux](https://andre-malraux-bethune.enthdf.fr) - Béthune, France - 07/2020 to 12/2020**
 
 ## Projects:
@@ -49,3 +42,13 @@ My main focus is web developpment but I'm curious about all technologies and I'm
 
 - **Scripts:**
     - [**🚧 Unix Configuration**](https://github.com/serapagranchose/unix_configuration)**:** A script that sets my configuration on unix systems
+
+## Non-tech related Skills:
+- **Languages:**
+    - French (Native), English (TOEIC: 795), Spanish (B1), Korean
+- **Softwares:**
+    - Krita, Photoshop, Asesprite
+- **Sports:**
+    - Climbing (actual), Karate, Judo 
+- **Music:**
+    - Percussionist, guitarist, 
