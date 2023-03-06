@@ -51,4 +51,4 @@ My main focus is web developpment but I'm curious about all technologies and I'm
 - **Sports:**
     - Climbing (actual), Karate, Judo 
 - **Music:**
-    - Percussionist, guitarist, 
+    - Percussionist, guitarist 
