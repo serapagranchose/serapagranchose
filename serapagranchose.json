@@ -1,0 +1,573 @@
+{
+  "basics": {
+    "name": "Séraphin",
+    "lastName": "Perrot",
+    "username": "serapagranchose",
+    "label": "Developer",
+    "image": "",
+    "email": "seraphin.perrot@epitech.eu",
+    "phone": "(912) 555-4321",
+    "url": "https://serapagranchose.github.io/web-portfolio/",
+    "summary": "I like to make unique projects.\nWhen I don't have my head full of ideas I simplify and optimize existing ones.\nMy main focus is web developpment but I'm curious about all technologies and I'm a quick learner.",
+    "location": {
+      "address": "4, Impasse des quatre maisons",
+      "postalCode": "59496",
+      "city": "Salomé",
+      "countryCode": "FR",
+      "region": "Haut-de-France"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "serapagranchose",
+        "url": "https://twitter.com/serapagranchose"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "tech": [
+        {
+          "type": "Programming languages",
+          "names": [
+            "C",
+            "C++",
+            "Java",
+            "JavaScript",
+            "TypeScript",
+            "Python",
+            "PHP",
+            "Lua"
+          ]
+        },
+        {
+          "type": "Libraries",
+          "names": [
+            "React",
+            "Redux",
+            "Anime.js",
+            "Chart.js",
+            "JQuery"
+          ]
+        },
+        {
+          "type": "Frameworks",
+          "names": [
+            "React Native",
+            "Jest",
+            "Svelte",
+            "SvelteKit",
+            "Symfony",
+            "Laravel",
+            "Next.js",
+            "Vue.js"
+          ]
+        },
+        {
+          "type": "Others",
+          "names": [
+            "Git",
+            "Node.js",
+            "MySQL",
+            "Docker",
+            "Amazon S3"
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "name": "French",
+          "fluency": "Native speaker"
+        },
+        {
+          "name": "English",
+          "fluency": "TOEIC: 795"
+        },
+        {
+          "name": "Spanish",
+          "fluency": "B1"
+        },
+        {
+          "name": "Korean",
+          "fluency": "Basics"
+        }
+      ],
+      "softwares": [
+        {
+          "name": "Krita"
+        },
+        {
+          "name": "Photoshop"
+        },
+        {
+          "name": "Asesprite"
+        }
+      ],
+      "sports": [
+        {
+          "name": "Climbing"
+        },
+        {
+          "name": "Karate"
+        },
+        {
+          "name": "Judo"
+        }
+      ],
+      "music": [
+        {
+          "name": "Percussionist"
+        },
+        {
+          "name": "Guitarist"
+        }
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "S Com System",
+      "position": "Full Stack Developer",
+      "url": "https://s-com-system.fr",
+      "startDate": "2020-07-01",
+      "endDate": "2020-12-01",
+      "summary": "Worked on multiple showcase websites for professional companies",
+      "highlights": [
+        ""
+      ],
+      "location": {
+        "city": "Roubaix",
+        "countryCode": "FR",
+        "region": "Haut-de-France"
+      }
+    },
+    {
+      "name": "Crèche A La Demande",
+      "position": "Front End Developer",
+      "url": "https://www.crechealademande.fr",
+      "startDate": "2021-11-01",
+      "endDate": "2022-03-01",
+      "summary": "Worked on a web app",
+      "highlights": [
+        ""
+      ],
+      "location": {
+        "city": "Lille",
+        "countryCode": "FR",
+        "region": "Haut-de-France"
+      }
+    },
+    {
+      "name": "ChantierCarré",
+      "position": "Front End Developer",
+      "url": "https://www.chantiercarre.fr",
+      "startDate": "2022-04-01",
+      "endDate": "2022-07-01",
+      "summary": "Worked on a web app",
+      "highlights": [
+        ""
+      ],
+      "location": {
+        "city": "Roubaix",
+        "countryCode": "FR",
+        "region": "Haut-de-France"
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": "High School",
+      "institutionName": "André Malraux",
+      "url": "https://andre-malraux-bethune.enthdf.fr",
+      "area": "Sciences and Technologies for Industry and Sustainable Development",
+      "studyType": "Bachelor",
+      "startDate": "2020-07-01",
+      "endDate": "2020-12-01",
+      "score": null,
+      "courses": [
+        null
+      ],
+      "location": {
+        "city": "Béthune",
+        "countryCode": "FR",
+        "region": "Haut-de-France"
+      }
+    },
+    {
+      "institution": "University",
+      "institutionName": "Epitech",
+      "url": "https://www.epitech.eu/fr/formations/epitech-en-5-ans",
+      "area": "Programmation",
+      "studyType": "Engineer",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": null,
+      "courses": [
+        null
+      ],
+      "location": {
+        "city": "Lille",
+        "countryCode": "FR",
+        "region": "Haut-de-France"
+      }
+    },
+    {
+      "institution": "University",
+      "institutionName": "Inha",
+      "url": "https://eng.inha.ac.kr/eng/index.do",
+      "area": "Programmation",
+      "studyType": "Engineer",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": null,
+      "courses": [
+        null
+      ],
+      "location": {
+        "city": "Incheon",
+        "countryCode": "KR",
+        "region": "Incheon"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "name": "books-of-rituals",
+      "description": "A game that makes you control a sorcerer who fights his own with a book of spells",
+      "highlights": [],
+      "language": "CMake",
+      "topics": [
+        []
+      ],
+      "keywords": [
+        "CMake",
+        []
+      ],
+      "startDate": "2022-07-14T17:15:39Z",
+      "endDate": "",
+      "updatedDate": "2022-07-15T14:33:24Z",
+      "url": "https://github.com/serapagranchose/books-of-rituals",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "collectorlist.app",
+      "description": "A webapp that helps collectors track their collections",
+      "highlights": [],
+      "language": null,
+      "topics": [
+        [
+          "webapp"
+        ]
+      ],
+      "keywords": [
+        null,
+        [
+          "webapp"
+        ]
+      ],
+      "startDate": "2022-06-16T16:33:31Z",
+      "endDate": "",
+      "updatedDate": "2022-07-08T13:46:02Z",
+      "url": "https://github.com/serapagranchose/collectorlist.app",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "dungeon-sweeper",
+      "description": "A game that makes you control a knight in a misty dungeon filled with monsters",
+      "highlights": [],
+      "language": "GDScript",
+      "topics": [
+        [
+          "video-game"
+        ]
+      ],
+      "keywords": [
+        "GDScript",
+        [
+          "video-game"
+        ]
+      ],
+      "startDate": "2022-03-24T11:57:42Z",
+      "endDate": "",
+      "updatedDate": "2022-07-08T14:25:12Z",
+      "url": "https://github.com/serapagranchose/dungeon-sweeper",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "epitech-inha-qa",
+      "description": null,
+      "highlights": [],
+      "language": null,
+      "topics": [
+        [
+          "readme"
+        ]
+      ],
+      "keywords": [
+        null,
+        [
+          "readme"
+        ]
+      ],
+      "startDate": "2022-05-31T10:36:57Z",
+      "endDate": "",
+      "updatedDate": "2023-03-13T08:58:49Z",
+      "url": "https://github.com/serapagranchose/epitech-inha-qa",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "forge-repair",
+      "description": "A 2D party game",
+      "highlights": [],
+      "language": "C#",
+      "topics": [
+        [
+          "video-game"
+        ]
+      ],
+      "keywords": [
+        "C#",
+        [
+          "video-game"
+        ]
+      ],
+      "startDate": "2022-02-21T16:10:14Z",
+      "endDate": "",
+      "updatedDate": "2022-06-16T16:25:11Z",
+      "url": "https://github.com/serapagranchose/forge-repair",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "kobold-colony",
+      "description": "A game that makes you control a Kobold who leads his colony to the top",
+      "highlights": [],
+      "language": null,
+      "topics": [
+        [
+          "game"
+        ]
+      ],
+      "keywords": [
+        null,
+        [
+          "game"
+        ]
+      ],
+      "startDate": "2022-06-16T16:31:12Z",
+      "endDate": "",
+      "updatedDate": "2022-07-08T14:21:15Z",
+      "url": "https://github.com/serapagranchose/kobold-colony",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "randomrecipinglist.app",
+      "description": "A webapp that helps people by giving a random recipe according to certain criteria",
+      "highlights": [],
+      "language": null,
+      "topics": [
+        [
+          "webapp"
+        ]
+      ],
+      "keywords": [
+        null,
+        [
+          "webapp"
+        ]
+      ],
+      "startDate": "2022-06-16T16:30:30Z",
+      "endDate": "",
+      "updatedDate": "2022-07-08T13:45:08Z",
+      "url": "https://github.com/serapagranchose/randomrecipinglist.app",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "serapagranchose",
+      "description": "A README.md that serves as my Github profile page",
+      "highlights": [],
+      "language": null,
+      "topics": [
+        [
+          "readme"
+        ]
+      ],
+      "keywords": [
+        null,
+        [
+          "readme"
+        ]
+      ],
+      "startDate": "2022-02-21T18:25:00Z",
+      "endDate": "",
+      "updatedDate": "2022-07-08T14:15:21Z",
+      "url": "https://github.com/serapagranchose/serapagranchose",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "serapagranchose.shop",
+      "description": "A webstore that shows what I sell as a maker",
+      "highlights": [],
+      "language": null,
+      "topics": [
+        [
+          "webstore"
+        ]
+      ],
+      "keywords": [
+        null,
+        [
+          "webstore"
+        ]
+      ],
+      "startDate": "2022-06-16T16:08:50Z",
+      "endDate": "",
+      "updatedDate": "2022-07-08T14:13:35Z",
+      "url": "https://github.com/serapagranchose/serapagranchose.shop",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "sight-cycle",
+      "description": "A 2D game that wavers between the classic platformer and the puzzle-game",
+      "highlights": [],
+      "language": "C#",
+      "topics": [
+        [
+          "video-game"
+        ]
+      ],
+      "keywords": [
+        "C#",
+        [
+          "video-game"
+        ]
+      ],
+      "startDate": "2022-01-28T19:48:12Z",
+      "endDate": "",
+      "updatedDate": "2022-06-16T16:25:17Z",
+      "url": "https://github.com/serapagranchose/sight-cycle",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "theme-setter",
+      "description": null,
+      "highlights": [],
+      "language": "Shell",
+      "topics": [
+        []
+      ],
+      "keywords": [
+        "Shell",
+        []
+      ],
+      "startDate": "2022-09-26T00:15:31Z",
+      "endDate": "",
+      "updatedDate": "2023-03-13T08:54:21Z",
+      "url": "https://github.com/serapagranchose/theme-setter",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "tierstierlist.com",
+      "description": "A website that centralizes user tierlists to make general tierlists of anything and everything",
+      "highlights": [],
+      "language": null,
+      "topics": [
+        [
+          "website"
+        ]
+      ],
+      "keywords": [
+        null,
+        [
+          "website"
+        ]
+      ],
+      "startDate": "2022-06-16T16:17:57Z",
+      "endDate": "",
+      "updatedDate": "2022-07-08T14:13:55Z",
+      "url": "https://github.com/serapagranchose/tierstierlist.com",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "unix-configuration",
+      "description": "A script that sets my configuration on unix systems",
+      "highlights": [],
+      "language": "Shell",
+      "topics": [
+        [
+          "script"
+        ]
+      ],
+      "keywords": [
+        "Shell",
+        [
+          "script"
+        ]
+      ],
+      "startDate": "2022-03-18T10:34:59Z",
+      "endDate": "",
+      "updatedDate": "2022-07-08T14:54:23Z",
+      "url": "https://github.com/serapagranchose/unix-configuration",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "web-portfolio",
+      "description": null,
+      "highlights": [],
+      "language": "Svelte",
+      "topics": [
+        []
+      ],
+      "keywords": [
+        "Svelte",
+        []
+      ],
+      "startDate": "2023-02-25T07:18:44Z",
+      "endDate": "",
+      "updatedDate": "2023-03-13T08:47:02Z",
+      "url": "https://github.com/serapagranchose/web-portfolio",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "AFPRAL",
+      "position": "Volunteer",
+      "description": "French Association for Allergy Prevention",
+      "url": "https://www.afpral.fr/page/953363-l-association",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "highlights": [
+        "RespirH@cktion 2021",
+        "Solidays 2022"
+      ]
+    }
+  ]
+}
