@@ -25,11 +25,11 @@ My main focus is web developpment but I&#39;m curious about all technologies and
     Roubaix, FR - 2022-04-01 to 2022-07-01
 
 ## Education:
-- **Sciences and Technologies for Industry and Sustainable Development Bachelor:** Sciences and Technologies for Industry and Sustainable Development at [André Malraux](https:&#x2F;&#x2F;andre-malraux-bethune.enthdf.fr)
+- **Sciences and Technologies for Industry and Sustainable Development Bachelor** at [André Malraux](https:&#x2F;&#x2F;andre-malraux-bethune.enthdf.fr):
     Béthune, FR - 2020-07-01 to 2020-12-01
-- **Programmation Engineer:** Programmation at [Epitech](https:&#x2F;&#x2F;www.epitech.eu&#x2F;fr&#x2F;formations&#x2F;epitech-en-5-ans)
+- **Programmation Engineer** at [Epitech](https:&#x2F;&#x2F;www.epitech.eu&#x2F;fr&#x2F;formations&#x2F;epitech-en-5-ans):
     Lille, FR - 2011-01-01 to 2013-01-01
-- **Programmation Engineer:** Programmation at [Inha](https:&#x2F;&#x2F;eng.inha.ac.kr&#x2F;eng&#x2F;index.do)
+- **Programmation Engineer** at [Inha](https:&#x2F;&#x2F;eng.inha.ac.kr&#x2F;eng&#x2F;index.do):
     Incheon, KR - 2011-01-01 to 2013-01-01
 
 ## Projects:
