@@ -1,0 +1,46 @@
+# serapagranchose/README.md
+
+I am {{basics.name}} "{{basics.username}}" {{basics.lastName}}.  
+
+{{basics.summary}}
+
+## Tech Skills:
+{{#skills}}
+{{#tech}}
+- **{{type}}:**
+    - {{names}}
+{{/tech}}
+{{/skills}}
+
+## Works:
+{{#work}}
+- **{{position}}:** {{summary}} at [{{name}}]({{url}})  
+    {{location.city}}, {{location.countryCode}} - {{startDate}} to {{endDate}}
+{{/work}}
+
+## Education:
+{{#education}}
+- **{{area}} {{studyType}}:** {{area}} at [{{institutionName}}]({{url}})
+    {{location.city}}, {{location.countryCode}} - {{startDate}} to {{endDate}}
+{{/education}}
+
+## Projects:
+{{#projects}}
+    - **[{{name}}]({{url}}):** {{description}}
+{{/projects}}
+
+## Non-tech related Skills:
+- **Languages:**
+    - {{#skills}}{{#languages}}{{name}} ({{fluency}}), {{/languages}}{{/skills}}
+- **Softwares:**
+    - {{#skills}}{{#softwares}}{{name}}, {{/softwares}}{{/skills}}
+- **Sports:**
+    - {{#skills}}{{#sports}}{{name}}, {{/sports}}{{/skills}}
+- **Music:**
+    - {{#skills}}{{#music}}{{name}}, {{/music}}{{/skills}}
+
+## Volunteer:
+{{#volunteer}}
+- **{{position}} at [{{organisation}}]({{url}})** ({{description}}):
+    - {{highlights}}
+{{/volunteer}}
