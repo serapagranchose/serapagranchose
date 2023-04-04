@@ -1,0 +1,8 @@
+name: 'Generate README'
+description: 'Fetch data from API and JSON file to generate a Github profile README'
+outputs:
+  readme:
+    description: 'The README.md profile file is generated'
+runs:
+  using: 'node16'
+  main: 'index.js'
