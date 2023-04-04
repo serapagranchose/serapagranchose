@@ -1,8 +1,34 @@
-name: 'Generate README'
-description: 'Fetch data from API and JSON file to generate a Github profile README'
-outputs:
-  readme:
-    description: 'The README.md profile file is generated'
-runs:
-  using: 'node16'
-  main: 'index.js'
+name: README build
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */3 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v1
+      - name: setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '13.x'
+      - name: cache
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: npm install
+      - name: Generate README file
+        run: node index.js
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update README.md
+          file_pattern: README.md
