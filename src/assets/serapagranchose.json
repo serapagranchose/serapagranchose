@@ -232,50 +232,6 @@
   ],
   "projects": [
     {
-      "name": "books-of-rituals",
-      "description": "A game that makes you control a sorcerer who fights his own with a book of spells",
-      "highlights": [],
-      "language": "CMake",
-      "topics": [
-        []
-      ],
-      "keywords": [
-        "CMake",
-        []
-      ],
-      "startDate": "2022-07-14T17:15:39Z",
-      "endDate": "",
-      "updatedDate": "2022-07-15T14:33:24Z",
-      "url": "https://github.com/serapagranchose/books-of-rituals",
-      "roles": [],
-      "entity": "",
-      "type": ""
-    },
-    {
-      "name": "collectorlist.app",
-      "description": "A webapp that helps collectors track their collections",
-      "highlights": [],
-      "language": null,
-      "topics": [
-        [
-          "webapp"
-        ]
-      ],
-      "keywords": [
-        null,
-        [
-          "webapp"
-        ]
-      ],
-      "startDate": "2022-06-16T16:33:31Z",
-      "endDate": "",
-      "updatedDate": "2022-07-08T13:46:02Z",
-      "url": "https://github.com/serapagranchose/collectorlist.app",
-      "roles": [],
-      "entity": "",
-      "type": ""
-    },
-    {
       "name": "dungeon-sweeper",
       "description": "A game that makes you control a knight in a misty dungeon filled with monsters",
       "highlights": [],
@@ -348,54 +304,6 @@
       "type": ""
     },
     {
-      "name": "kobold-colony",
-      "description": "A game that makes you control a Kobold who leads his colony to the top",
-      "highlights": [],
-      "language": null,
-      "topics": [
-        [
-          "game"
-        ]
-      ],
-      "keywords": [
-        null,
-        [
-          "game"
-        ]
-      ],
-      "startDate": "2022-06-16T16:31:12Z",
-      "endDate": "",
-      "updatedDate": "2022-07-08T14:21:15Z",
-      "url": "https://github.com/serapagranchose/kobold-colony",
-      "roles": [],
-      "entity": "",
-      "type": ""
-    },
-    {
-      "name": "randomrecipinglist.app",
-      "description": "A webapp that helps people by giving a random recipe according to certain criteria",
-      "highlights": [],
-      "language": null,
-      "topics": [
-        [
-          "webapp"
-        ]
-      ],
-      "keywords": [
-        null,
-        [
-          "webapp"
-        ]
-      ],
-      "startDate": "2022-06-16T16:30:30Z",
-      "endDate": "",
-      "updatedDate": "2022-07-08T13:45:08Z",
-      "url": "https://github.com/serapagranchose/randomrecipinglist.app",
-      "roles": [],
-      "entity": "",
-      "type": ""
-    },
-    {
       "name": "serapagranchose",
       "description": "A README.md that serves as my Github profile page",
       "highlights": [],
@@ -415,6 +323,94 @@
       "endDate": "",
       "updatedDate": "2023-03-21T11:08:47Z",
       "url": "https://github.com/serapagranchose/serapagranchose",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "sight-cycle",
+      "description": "A 2D game that wavers between the classic platformer and the puzzle-game",
+      "highlights": [],
+      "language": "C#",
+      "topics": [
+        [
+          "video-game"
+        ]
+      ],
+      "keywords": [
+        "C#",
+        [
+          "video-game"
+        ]
+      ],
+      "startDate": "2022-01-28T19:48:12Z",
+      "endDate": "",
+      "updatedDate": "2022-06-16T16:25:17Z",
+      "url": "https://github.com/serapagranchose/sight-cycle",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "theme-setter",
+      "description": null,
+      "highlights": [],
+      "language": "Shell",
+      "topics": [
+        []
+      ],
+      "keywords": [
+        "Shell",
+        []
+      ],
+      "startDate": "2022-09-26T00:15:31Z",
+      "endDate": "",
+      "updatedDate": "2023-03-13T08:54:21Z",
+      "url": "https://github.com/serapagranchose/theme-setter",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "unix-configuration",
+      "description": "A script that sets my configuration on unix systems",
+      "highlights": [],
+      "language": "Shell",
+      "topics": [
+        [
+          "script"
+        ]
+      ],
+      "keywords": [
+        "Shell",
+        [
+          "script"
+        ]
+      ],
+      "startDate": "2022-03-18T10:34:59Z",
+      "endDate": "",
+      "updatedDate": "2022-07-08T14:54:23Z",
+      "url": "https://github.com/serapagranchose/unix-configuration",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "web-portfolio",
+      "description": null,
+      "highlights": [],
+      "language": "Svelte",
+      "topics": [
+        []
+      ],
+      "keywords": [
+        "Svelte",
+        []
+      ],
+      "startDate": "2023-02-25T07:18:44Z",
+      "endDate": "",
+      "updatedDate": "2023-03-13T08:47:02Z",
+      "url": "https://github.com/serapagranchose/web-portfolio",
       "roles": [],
       "entity": "",
       "type": ""

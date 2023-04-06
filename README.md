@@ -36,14 +36,14 @@ My main focus is web developpment but I&#39;m curious about all technologies and
     Incheon, KR - 2011-01-01 to 2013-01-01
 
 ## Projects:
-- **[books-of-rituals](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;books-of-rituals):** A game that makes you control a sorcerer who fights his own with a book of spells
-- **[collectorlist.app](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;collectorlist.app):** A webapp that helps collectors track their collections
 - **[dungeon-sweeper](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;dungeon-sweeper):** A game that makes you control a knight in a misty dungeon filled with monsters
 - **[epitech-inha-qa](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;epitech-inha-qa):** 
 - **[forge-repair](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;forge-repair):** A 2D party game
-- **[kobold-colony](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;kobold-colony):** A game that makes you control a Kobold who leads his colony to the top
-- **[randomrecipinglist.app](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;randomrecipinglist.app):** A webapp that helps people by giving a random recipe according to certain criteria
 - **[serapagranchose](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;serapagranchose):** A README.md that serves as my Github profile page
+- **[sight-cycle](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;sight-cycle):** A 2D game that wavers between the classic platformer and the puzzle-game
+- **[theme-setter](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;theme-setter):** 
+- **[unix-configuration](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;unix-configuration):** A script that sets my configuration on unix systems
+- **[web-portfolio](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;web-portfolio):** 
 - **[serapagranchose.shop](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;serapagranchose.shop):** A webstore that shows what I sell as a maker
 - **[sight-cycle](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;sight-cycle):** A 2D game that wavers between the classic platformer and the puzzle-game
 - **[theme-setter](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;theme-setter):** 
@@ -62,6 +62,6 @@ My main focus is web developpment but I&#39;m curious about all technologies and
     - Percussionist, Guitarist, 
 
 ## Volunteer:
-- **Volunteer at [](https:&#x2F;&#x2F;www.afpral.fr&#x2F;page&#x2F;953363-l-association)**:
+- **Volunteer at [AFPRAL](https:&#x2F;&#x2F;www.afpral.fr&#x2F;page&#x2F;953363-l-association)**:  
     (French Association for Allergy Prevention)  
     - RespirH@cktion 2021,Solidays 2022
