@@ -39,6 +39,7 @@ jobs:
           token: ${{ secrets.TOKEN }}
           gist_id: https://gist.github.com/serapagranchose/bc9b8dd8959b352699aa258a7924b729
           file_path: src/assets/serapagranchose.json
+          file_type: binary
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
