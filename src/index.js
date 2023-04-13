@@ -17,10 +17,7 @@ async function updateJSON() {
         "description": json[index].description,
         "language": json[index].language,
         "topics": json[index].topics,
-        "keywords": [
-          json[index].language,
-          json[index].topics
-        ],
+        "keywords": json[index].topics.push(json[index].language)
         "startDate": json[index].created_at.substring(0, 10),
         "updatedDate": json[index].updated_at.substring(0, 10),
         "url": json[index].html_url,
