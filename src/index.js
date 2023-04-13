@@ -15,20 +15,12 @@ async function updateJSON() {
       newData.projects[index] = {
         "name": json[index].name,
         "description": json[index].description,
-        "highlights": [
-        ],
         "language": json[index].language,
-        "topics": [
-          json[index].topics
-        ],
+        "topics": json[index].topics,
         "keywords": json[index].language ? json[index].language + ', ' + json[index].topics.join(', ') : json[index].topics.join(', '),
         "startDate": json[index].created_at.substring(0, 10),
         "updatedDate": json[index].updated_at.substring(0, 10),
         "url": json[index].html_url,
-        "roles": [
-        ],
-        "entity": "",
-        "type": ""
       }      
       console.log("Project \"" + json[index].name + "\" updated.")
     }
