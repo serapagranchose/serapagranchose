@@ -26,7 +26,6 @@ async function updateJSON() {
           json[index].topics
         ],
         "startDate": json[index].created_at,
-        "endDate": "",
         "updatedDate": json[index].updated_at,
         "url": json[index].html_url,
         "roles": [
