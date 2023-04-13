@@ -1,12 +1,13 @@
 {
   "basics": {
-    "name": "Séraphin",
+    "name": "Séraphin Perrot",
+    "firstName": "Séraphin",
     "lastName": "Perrot",
-    "username": "serapagranchose",
+    "userName": "serapagranchose",
     "label": "Developer",
     "image": "",
     "email": "seraphin.perrot@epitech.eu",
-    "phone": "(912) 555-4321",
+    "phone": "(+33) 7 83 84 92 60",
     "url": "https://serapagranchose.github.io/web-portfolio/",
     "summary": "I like to make unique projects.\nWhen I don't have my head full of ideas I simplify and optimize existing ones.\nMy main focus is web developpment but I'm curious about all technologies and I'm a quick learner.",
     "location": {
@@ -563,7 +564,7 @@
       "description": "French Association for Allergy Prevention",
       "url": "https://www.afpral.fr/page/953363-l-association",
       "startDate": "2021-01-01",
-      "endDate": null,
+      "endDate": "",
       "highlights": [
         "RespirH@cktion 2021",
         "Solidays 2022"
