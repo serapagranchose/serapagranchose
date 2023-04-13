@@ -37,7 +37,7 @@ jobs:
       - uses: exuanbo/actions-deploy-gist@v1
         with:
           token: ${{ secrets.TOKEN }}
-          gist_id: https://gist.github.com/serapagranchose/bc9b8dd8959b352699aa258a7924b729
+          gist_id: bc9b8dd8959b352699aa258a7924b729
           file_path: src/assets/serapagranchose.json
           file_type: binary
 
