@@ -11,24 +11,29 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: checkout
-        uses: actions/checkout@v1
-      - name: setup node
-        uses: actions/setup-node@v1
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+  
+      - uses: actions/setup-node@v1
         with:
           node-version: '18.15'
-      - name: cache
-        uses: actions/cache@v1
+
+      - uses: actions/cache@v1
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+
       - name: Install dependencies
         run: npm install
+
       - name: Generate README file
         run: node src/index.js
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update README.md
-          file_pattern: README.md
