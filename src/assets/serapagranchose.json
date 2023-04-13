@@ -238,11 +238,11 @@
       "language": "GDScript",
       "topics": [
         "video-game",
-        "GDScript"
+        "gdscript"
       ],
       "keywords": [
         "video-game",
-        "GDScript"
+        "gdscript"
       ],
       "startDate": "2022-03-24",
       "updatedDate": "2022-07-08",
@@ -268,11 +268,11 @@
       "language": "C#",
       "topics": [
         "video-game",
-        "C#"
+        "c#"
       ],
       "keywords": [
         "video-game",
-        "C#"
+        "c#"
       ],
       "startDate": "2022-02-21",
       "updatedDate": "2022-06-16",
@@ -284,11 +284,11 @@
       "language": "JavaScript",
       "topics": [
         "readme",
-        "JavaScript"
+        "javascript"
       ],
       "keywords": [
         "readme",
-        "JavaScript"
+        "javascript"
       ],
       "startDate": "2022-02-21",
       "updatedDate": "2023-03-21",
@@ -300,11 +300,11 @@
       "language": "C#",
       "topics": [
         "video-game",
-        "C#"
+        "c#"
       ],
       "keywords": [
         "video-game",
-        "C#"
+        "c#"
       ],
       "startDate": "2022-01-28",
       "updatedDate": "2022-06-16",
@@ -315,10 +315,10 @@
       "description": "A script to randomly set an animated wallpaper and set my color theme",
       "language": "Shell",
       "topics": [
-        "Shell"
+        "shell"
       ],
       "keywords": [
-        "Shell"
+        "shell"
       ],
       "startDate": "2022-09-26",
       "updatedDate": "2023-04-06",
@@ -330,11 +330,11 @@
       "language": "Shell",
       "topics": [
         "script",
-        "Shell"
+        "shell"
       ],
       "keywords": [
         "script",
-        "Shell"
+        "shell"
       ],
       "startDate": "2022-03-18",
       "updatedDate": "2022-07-08",
@@ -345,12 +345,10 @@
       "description": "A Sveltekit website to show my projects",
       "language": "Svelte",
       "topics": [
-        "svelte",
-        "Svelte"
+        "svelte"
       ],
       "keywords": [
-        "svelte",
-        "Svelte"
+        "svelte"
       ],
       "startDate": "2023-02-25",
       "updatedDate": "2023-04-06",
