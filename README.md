@@ -1,6 +1,6 @@
 # serapagranchose/README.md
 
-I am Séraphin "serapagranchose" Perrot.  
+I am Séraphin Perrot "" Perrot.  
 
 I like to make unique projects.
 When I don&#39;t have my head full of ideas I simplify and optimize existing ones.
