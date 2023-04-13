@@ -25,8 +25,8 @@ async function updateJSON() {
           json[index].language,
           json[index].topics
         ],
-        "startDate": json[index].created_at,
-        "updatedDate": json[index].updated_at,
+        "startDate": json[index].created_at.replace(/T/, ' ').replace(/\..+/, ''),
+        "updatedDate": json[index].updated_at.replace(/T/, ' ').replace(/\..+/, ''),
         "url": json[index].html_url,
         "roles": [
         ],
