@@ -239,7 +239,12 @@
       "topics": [
         "video-game"
       ],
-      "keywords": "GDScript, video-game",
+      "keywords": [
+        "GDScript",
+        [
+          "video-game"
+        ]
+      ],
       "startDate": "2022-03-24",
       "updatedDate": "2022-07-08",
       "url": "https://github.com/serapagranchose/dungeon-sweeper"
@@ -251,7 +256,12 @@
       "topics": [
         "readme"
       ],
-      "keywords": "readme",
+      "keywords": [
+        null,
+        [
+          "readme"
+        ]
+      ],
       "startDate": "2022-05-31",
       "updatedDate": "2023-04-06",
       "url": "https://github.com/serapagranchose/epitech-inha-qa"
@@ -263,7 +273,12 @@
       "topics": [
         "video-game"
       ],
-      "keywords": "C#, video-game",
+      "keywords": [
+        "C#",
+        [
+          "video-game"
+        ]
+      ],
       "startDate": "2022-02-21",
       "updatedDate": "2022-06-16",
       "url": "https://github.com/serapagranchose/forge-repair"
@@ -275,7 +290,12 @@
       "topics": [
         "readme"
       ],
-      "keywords": "JavaScript, readme",
+      "keywords": [
+        "JavaScript",
+        [
+          "readme"
+        ]
+      ],
       "startDate": "2022-02-21",
       "updatedDate": "2023-03-21",
       "url": "https://github.com/serapagranchose/serapagranchose"
@@ -287,7 +307,12 @@
       "topics": [
         "video-game"
       ],
-      "keywords": "C#, video-game",
+      "keywords": [
+        "C#",
+        [
+          "video-game"
+        ]
+      ],
       "startDate": "2022-01-28",
       "updatedDate": "2022-06-16",
       "url": "https://github.com/serapagranchose/sight-cycle"
@@ -297,7 +322,10 @@
       "description": "A script to randomly set an animated wallpaper and set my color theme",
       "language": "Shell",
       "topics": [],
-      "keywords": "Shell, ",
+      "keywords": [
+        "Shell",
+        []
+      ],
       "startDate": "2022-09-26",
       "updatedDate": "2023-04-06",
       "url": "https://github.com/serapagranchose/theme-setter"
@@ -309,7 +337,12 @@
       "topics": [
         "script"
       ],
-      "keywords": "Shell, script",
+      "keywords": [
+        "Shell",
+        [
+          "script"
+        ]
+      ],
       "startDate": "2022-03-18",
       "updatedDate": "2022-07-08",
       "url": "https://github.com/serapagranchose/unix-configuration"
@@ -321,7 +354,12 @@
       "topics": [
         "svelte"
       ],
-      "keywords": "Svelte, svelte",
+      "keywords": [
+        "Svelte",
+        [
+          "svelte"
+        ]
+      ],
       "startDate": "2023-02-25",
       "updatedDate": "2023-04-06",
       "url": "https://github.com/serapagranchose/web-portfolio"
