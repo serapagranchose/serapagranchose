@@ -184,9 +184,9 @@
       "studyType": "Bachelor",
       "startDate": "2020-07-01",
       "endDate": "2020-12-01",
-      "score": null,
+      "score": "",
       "courses": [
-        null
+        ""
       ],
       "location": {
         "city": "Béthune",
@@ -202,9 +202,9 @@
       "studyType": "Engineer",
       "startDate": "2011-01-01",
       "endDate": "2013-01-01",
-      "score": null,
+      "score": "",
       "courses": [
-        null
+        ""
       ],
       "location": {
         "city": "Lille",
@@ -220,9 +220,9 @@
       "studyType": "Engineer",
       "startDate": "2011-01-01",
       "endDate": "2013-01-01",
-      "score": null,
+      "score": "",
       "courses": [
-        null
+        ""
       ],
       "location": {
         "city": "Incheon",
