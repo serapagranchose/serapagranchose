@@ -36,4 +36,4 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update README.md
+          commit_message: 📝 Update serapagranchose.json & README.md
