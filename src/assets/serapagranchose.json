@@ -136,7 +136,8 @@
       "highlights": [
         ""
       ],
-      "location": {
+      "location": "Roubaix, FR",
+      "preciseLocation": {
         "city": "Roubaix",
         "countryCode": "FR",
         "region": "Haut-de-France"
@@ -152,7 +153,8 @@
       "highlights": [
         ""
       ],
-      "location": {
+      "location": "Lille, FR",
+      "preciseLocation": {
         "city": "Lille",
         "countryCode": "FR",
         "region": "Haut-de-France"
@@ -168,8 +170,9 @@
       "highlights": [
         ""
       ],
-      "location": {
-        "city": "Roubaix",
+      "location": "Tourcoing, FR",
+      "preciseLocation": {
+        "city": "Tourcoing",
         "countryCode": "FR",
         "region": "Haut-de-France"
       }
