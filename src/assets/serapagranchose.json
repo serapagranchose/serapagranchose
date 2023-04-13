@@ -249,7 +249,7 @@
         ]
       ],
       "startDate": "2022-03-24T11:57:42Z",
-      "endDate": "",
+      "endDate": "2022-07-08T14:25:12Z",
       "updatedDate": "2022-07-08T14:25:12Z",
       "url": "https://github.com/serapagranchose/dungeon-sweeper",
       "roles": [],
@@ -273,7 +273,6 @@
         ]
       ],
       "startDate": "2022-05-31T10:36:57Z",
-      "endDate": "",
       "updatedDate": "2023-04-06T06:48:08Z",
       "url": "https://github.com/serapagranchose/epitech-inha-qa",
       "roles": [],
@@ -297,7 +296,7 @@
         ]
       ],
       "startDate": "2022-02-21T16:10:14Z",
-      "endDate": "",
+      "endDate": "2022-06-16T16:25:11Z",
       "updatedDate": "2022-06-16T16:25:11Z",
       "url": "https://github.com/serapagranchose/forge-repair",
       "roles": [],
@@ -321,7 +320,6 @@
         ]
       ],
       "startDate": "2022-02-21T18:25:00Z",
-      "endDate": "",
       "updatedDate": "2023-03-21T11:08:47Z",
       "url": "https://github.com/serapagranchose/serapagranchose",
       "roles": [],
@@ -345,7 +343,7 @@
         ]
       ],
       "startDate": "2022-01-28T19:48:12Z",
-      "endDate": "",
+      "endDate": "2022-01-28T19:48:12Z",
       "updatedDate": "2022-06-16T16:25:17Z",
       "url": "https://github.com/serapagranchose/sight-cycle",
       "roles": [],
@@ -365,7 +363,6 @@
         []
       ],
       "startDate": "2022-09-26T00:15:31Z",
-      "endDate": "",
       "updatedDate": "2023-04-06T06:46:10Z",
       "url": "https://github.com/serapagranchose/theme-setter",
       "roles": [],
@@ -389,7 +386,6 @@
         ]
       ],
       "startDate": "2022-03-18T10:34:59Z",
-      "endDate": "",
       "updatedDate": "2022-07-08T14:54:23Z",
       "url": "https://github.com/serapagranchose/unix-configuration",
       "roles": [],
@@ -413,7 +409,6 @@
         ]
       ],
       "startDate": "2023-02-25T07:18:44Z",
-      "endDate": "",
       "updatedDate": "2023-04-06T06:45:10Z",
       "url": "https://github.com/serapagranchose/web-portfolio",
       "roles": [],
@@ -446,7 +441,7 @@
     },
     {
       "name": "theme-setter",
-      "description": null,
+      "description": "",
       "highlights": [],
       "language": "Shell",
       "topics": [
@@ -488,7 +483,7 @@
     },
     {
       "name": "web-portfolio",
-      "description": null,
+      "description": "",
       "highlights": [],
       "language": "Svelte",
       "topics": [
