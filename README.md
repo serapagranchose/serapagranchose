@@ -37,13 +37,13 @@ My main focus is web developpment but I&#39;m curious about all technologies and
 
 ## Projects:
 - **[dungeon-sweeper](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;dungeon-sweeper):** A game that makes you control a knight in a misty dungeon filled with monsters
-- **[epitech-inha-qa](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;epitech-inha-qa):** 
+- **[epitech-inha-qa](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;epitech-inha-qa):** A documentation for Epitech students at Inha Korean University
 - **[forge-repair](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;forge-repair):** A 2D party game
 - **[serapagranchose](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;serapagranchose):** A README.md that serves as my Github profile page
 - **[sight-cycle](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;sight-cycle):** A 2D game that wavers between the classic platformer and the puzzle-game
-- **[theme-setter](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;theme-setter):** 
+- **[theme-setter](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;theme-setter):** A script to randomly set an animated wallpaper and set my color theme
 - **[unix-configuration](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;unix-configuration):** A script that sets my configuration on unix systems
-- **[web-portfolio](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;web-portfolio):** 
+- **[web-portfolio](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;web-portfolio):** A Sveltekit website to show my projects
 - **[serapagranchose.shop](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;serapagranchose.shop):** A webstore that shows what I sell as a maker
 - **[sight-cycle](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;sight-cycle):** A 2D game that wavers between the classic platformer and the puzzle-game
 - **[theme-setter](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;theme-setter):** 
