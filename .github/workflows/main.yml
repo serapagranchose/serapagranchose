@@ -33,6 +33,13 @@ jobs:
 
       - name: Generate README file
         run: node src/index.js
+        
+      - uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.TOKEN }}
+          gist_id: https://gist.github.com/serapagranchose/bc9b8dd8959b352699aa258a7924b729
+          file_path: assets/serapagranchose.json
+          gist_file_name: resume.json
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
