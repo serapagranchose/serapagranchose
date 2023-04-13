@@ -19,13 +19,13 @@ My main focus is web developpment but I&#39;m curious about all technologies and
 ## Works:
 - **Full Stack Developer** at [S Com System](https:&#x2F;&#x2F;s-com-system.fr):  
     Worked on multiple showcase websites for professional companies  
-    Roubaix, FR - 2020-07-01 to 2020-12-01
+    ,  - 2020-07-01 to 2020-12-01
 - **Front End Developer** at [Crèche A La Demande](https:&#x2F;&#x2F;www.crechealademande.fr):  
     Worked on a web app  
-    Lille, FR - 2021-11-01 to 2022-03-01
+    ,  - 2021-11-01 to 2022-03-01
 - **Front End Developer** at [ChantierCarré](https:&#x2F;&#x2F;www.chantiercarre.fr):  
     Worked on a web app  
-    Roubaix, FR - 2022-04-01 to 2022-07-01
+    ,  - 2022-04-01 to 2022-07-01
 
 ## Education:
 - **Sciences and Technologies for Industry and Sustainable Development Bachelor** at [André Malraux](https:&#x2F;&#x2F;andre-malraux-bethune.enthdf.fr):  
