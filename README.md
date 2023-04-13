@@ -44,10 +44,8 @@ My main focus is web developpment but I&#39;m curious about all technologies and
 - **[theme-setter](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;theme-setter):** A script to randomly set an animated wallpaper and set my color theme
 - **[unix-configuration](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;unix-configuration):** A script that sets my configuration on unix systems
 - **[web-portfolio](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;web-portfolio):** A Sveltekit website to show my projects
-- **[serapagranchose.shop](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;serapagranchose.shop):** A webstore that shows what I sell as a maker
 - **[sight-cycle](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;sight-cycle):** A 2D game that wavers between the classic platformer and the puzzle-game
 - **[theme-setter](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;theme-setter):** 
-- **[tierstierlist.com](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;tierstierlist.com):** A website that centralizes user tierlists to make general tierlists of anything and everything
 - **[unix-configuration](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;unix-configuration):** A script that sets my configuration on unix systems
 - **[web-portfolio](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;web-portfolio):** 
 
