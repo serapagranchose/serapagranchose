@@ -237,14 +237,10 @@
       "description": "A game that makes you control a knight in a misty dungeon filled with monsters",
       "language": "GDScript",
       "topics": [
-        "video-game"
+        "video-game",
+        "GDScript"
       ],
-      "keywords": [
-        "GDScript",
-        [
-          "video-game"
-        ]
-      ],
+      "keywords": 2,
       "startDate": "2022-03-24",
       "updatedDate": "2022-07-08",
       "url": "https://github.com/serapagranchose/dungeon-sweeper"
@@ -254,14 +250,10 @@
       "description": "A documentation for Epitech students at Inha Korean University",
       "language": null,
       "topics": [
-        "readme"
+        "readme",
+        null
       ],
-      "keywords": [
-        null,
-        [
-          "readme"
-        ]
-      ],
+      "keywords": 2,
       "startDate": "2022-05-31",
       "updatedDate": "2023-04-06",
       "url": "https://github.com/serapagranchose/epitech-inha-qa"
@@ -271,14 +263,10 @@
       "description": "A 2D party game",
       "language": "C#",
       "topics": [
-        "video-game"
+        "video-game",
+        "C#"
       ],
-      "keywords": [
-        "C#",
-        [
-          "video-game"
-        ]
-      ],
+      "keywords": 2,
       "startDate": "2022-02-21",
       "updatedDate": "2022-06-16",
       "url": "https://github.com/serapagranchose/forge-repair"
@@ -288,14 +276,10 @@
       "description": "A README.md that serves as my Github profile page",
       "language": "JavaScript",
       "topics": [
-        "readme"
+        "readme",
+        "JavaScript"
       ],
-      "keywords": [
-        "JavaScript",
-        [
-          "readme"
-        ]
-      ],
+      "keywords": 2,
       "startDate": "2022-02-21",
       "updatedDate": "2023-03-21",
       "url": "https://github.com/serapagranchose/serapagranchose"
@@ -305,14 +289,10 @@
       "description": "A 2D game that wavers between the classic platformer and the puzzle-game",
       "language": "C#",
       "topics": [
-        "video-game"
+        "video-game",
+        "C#"
       ],
-      "keywords": [
-        "C#",
-        [
-          "video-game"
-        ]
-      ],
+      "keywords": 2,
       "startDate": "2022-01-28",
       "updatedDate": "2022-06-16",
       "url": "https://github.com/serapagranchose/sight-cycle"
@@ -321,11 +301,10 @@
       "name": "theme-setter",
       "description": "A script to randomly set an animated wallpaper and set my color theme",
       "language": "Shell",
-      "topics": [],
-      "keywords": [
-        "Shell",
-        []
+      "topics": [
+        "Shell"
       ],
+      "keywords": 1,
       "startDate": "2022-09-26",
       "updatedDate": "2023-04-06",
       "url": "https://github.com/serapagranchose/theme-setter"
@@ -335,14 +314,10 @@
       "description": "A script that sets my configuration on unix systems",
       "language": "Shell",
       "topics": [
-        "script"
+        "script",
+        "Shell"
       ],
-      "keywords": [
-        "Shell",
-        [
-          "script"
-        ]
-      ],
+      "keywords": 2,
       "startDate": "2022-03-18",
       "updatedDate": "2022-07-08",
       "url": "https://github.com/serapagranchose/unix-configuration"
@@ -352,14 +327,10 @@
       "description": "A Sveltekit website to show my projects",
       "language": "Svelte",
       "topics": [
-        "svelte"
+        "svelte",
+        "Svelte"
       ],
-      "keywords": [
-        "Svelte",
-        [
-          "svelte"
-        ]
-      ],
+      "keywords": 2,
       "startDate": "2023-02-25",
       "updatedDate": "2023-04-06",
       "url": "https://github.com/serapagranchose/web-portfolio"
