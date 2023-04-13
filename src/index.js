@@ -12,8 +12,8 @@ async function updateJSON() {
       console.log("Sucessfully scrapped Github API datas.")
       console.log("Updating JSON projects section...")
     for (let index = 0; index < json.length; index++) {
-      if (json[index].language && !json[index].topics.includes(json[index].language))
-        json[index].topics.push(json[index].language)
+      if (json[index].language && !json[index].topics.some(elem => elem.toLowerCase() === json[index].language.toLowerCase()))
+        json[index].topics.push(json[index].language.toLowerCase())
       newData.projects[index] = {
         "name": json[index].name,
         "description": json[index].description,
