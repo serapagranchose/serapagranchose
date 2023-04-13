@@ -1,4 +1,7 @@
 {
+  "meta": { 
+    "theme": "elegant" 
+  },
   "basics": {
     "name": "Séraphin Perrot",
     "firstName": "Séraphin",
@@ -371,9 +374,4 @@
       ]
     }
   ]
-},
-{
-  "meta": { 
-    "theme": "elegant" 
-  } 
 }
