@@ -232,6 +232,186 @@
     }
   ],
   "projects": [
+    {
+      "name": "dungeon-sweeper",
+      "description": "A game that makes you control a knight in a misty dungeon filled with monsters",
+      "highlights": [],
+      "language": "GDScript",
+      "topics": [
+        [
+          "video-game"
+        ]
+      ],
+      "keywords": [
+        "GDScript",
+        [
+          "video-game"
+        ]
+      ],
+      "startDate": "2022-03-24 11:57:42Z",
+      "updatedDate": "2022-07-08 14:25:12Z",
+      "url": "https://github.com/serapagranchose/dungeon-sweeper",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "epitech-inha-qa",
+      "description": "A documentation for Epitech students at Inha Korean University",
+      "highlights": [],
+      "language": null,
+      "topics": [
+        [
+          "readme"
+        ]
+      ],
+      "keywords": [
+        null,
+        [
+          "readme"
+        ]
+      ],
+      "startDate": "2022-05-31 10:36:57Z",
+      "updatedDate": "2023-04-06 06:48:08Z",
+      "url": "https://github.com/serapagranchose/epitech-inha-qa",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "forge-repair",
+      "description": "A 2D party game",
+      "highlights": [],
+      "language": "C#",
+      "topics": [
+        [
+          "video-game"
+        ]
+      ],
+      "keywords": [
+        "C#",
+        [
+          "video-game"
+        ]
+      ],
+      "startDate": "2022-02-21 16:10:14Z",
+      "updatedDate": "2022-06-16 16:25:11Z",
+      "url": "https://github.com/serapagranchose/forge-repair",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "serapagranchose",
+      "description": "A README.md that serves as my Github profile page",
+      "highlights": [],
+      "language": "JavaScript",
+      "topics": [
+        [
+          "readme"
+        ]
+      ],
+      "keywords": [
+        "JavaScript",
+        [
+          "readme"
+        ]
+      ],
+      "startDate": "2022-02-21 18:25:00Z",
+      "updatedDate": "2023-03-21 11:08:47Z",
+      "url": "https://github.com/serapagranchose/serapagranchose",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "sight-cycle",
+      "description": "A 2D game that wavers between the classic platformer and the puzzle-game",
+      "highlights": [],
+      "language": "C#",
+      "topics": [
+        [
+          "video-game"
+        ]
+      ],
+      "keywords": [
+        "C#",
+        [
+          "video-game"
+        ]
+      ],
+      "startDate": "2022-01-28 19:48:12Z",
+      "updatedDate": "2022-06-16 16:25:17Z",
+      "url": "https://github.com/serapagranchose/sight-cycle",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "theme-setter",
+      "description": "A script to randomly set an animated wallpaper and set my color theme",
+      "highlights": [],
+      "language": "Shell",
+      "topics": [
+        []
+      ],
+      "keywords": [
+        "Shell",
+        []
+      ],
+      "startDate": "2022-09-26 00:15:31Z",
+      "updatedDate": "2023-04-06 06:46:10Z",
+      "url": "https://github.com/serapagranchose/theme-setter",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "unix-configuration",
+      "description": "A script that sets my configuration on unix systems",
+      "highlights": [],
+      "language": "Shell",
+      "topics": [
+        [
+          "script"
+        ]
+      ],
+      "keywords": [
+        "Shell",
+        [
+          "script"
+        ]
+      ],
+      "startDate": "2022-03-18 10:34:59Z",
+      "updatedDate": "2022-07-08 14:54:23Z",
+      "url": "https://github.com/serapagranchose/unix-configuration",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "web-portfolio",
+      "description": "A Sveltekit website to show my projects",
+      "highlights": [],
+      "language": "Svelte",
+      "topics": [
+        [
+          "svelte"
+        ]
+      ],
+      "keywords": [
+        "Svelte",
+        [
+          "svelte"
+        ]
+      ],
+      "startDate": "2023-02-25 07:18:44Z",
+      "updatedDate": "2023-04-06 06:45:10Z",
+      "url": "https://github.com/serapagranchose/web-portfolio",
+      "roles": [],
+      "entity": "",
+      "type": ""
+    }
   ],
   "volunteer": [
     {
