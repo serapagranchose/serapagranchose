@@ -240,7 +240,10 @@
         "video-game",
         "GDScript"
       ],
-      "keywords": 2,
+      "keywords": [
+        "video-game",
+        "GDScript"
+      ],
       "startDate": "2022-03-24",
       "updatedDate": "2022-07-08",
       "url": "https://github.com/serapagranchose/dungeon-sweeper"
@@ -253,7 +256,10 @@
         "readme",
         null
       ],
-      "keywords": 2,
+      "keywords": [
+        "readme",
+        null
+      ],
       "startDate": "2022-05-31",
       "updatedDate": "2023-04-06",
       "url": "https://github.com/serapagranchose/epitech-inha-qa"
@@ -266,7 +272,10 @@
         "video-game",
         "C#"
       ],
-      "keywords": 2,
+      "keywords": [
+        "video-game",
+        "C#"
+      ],
       "startDate": "2022-02-21",
       "updatedDate": "2022-06-16",
       "url": "https://github.com/serapagranchose/forge-repair"
@@ -279,7 +288,10 @@
         "readme",
         "JavaScript"
       ],
-      "keywords": 2,
+      "keywords": [
+        "readme",
+        "JavaScript"
+      ],
       "startDate": "2022-02-21",
       "updatedDate": "2023-03-21",
       "url": "https://github.com/serapagranchose/serapagranchose"
@@ -292,7 +304,10 @@
         "video-game",
         "C#"
       ],
-      "keywords": 2,
+      "keywords": [
+        "video-game",
+        "C#"
+      ],
       "startDate": "2022-01-28",
       "updatedDate": "2022-06-16",
       "url": "https://github.com/serapagranchose/sight-cycle"
@@ -304,7 +319,9 @@
       "topics": [
         "Shell"
       ],
-      "keywords": 1,
+      "keywords": [
+        "Shell"
+      ],
       "startDate": "2022-09-26",
       "updatedDate": "2023-04-06",
       "url": "https://github.com/serapagranchose/theme-setter"
@@ -317,7 +334,10 @@
         "script",
         "Shell"
       ],
-      "keywords": 2,
+      "keywords": [
+        "script",
+        "Shell"
+      ],
       "startDate": "2022-03-18",
       "updatedDate": "2022-07-08",
       "url": "https://github.com/serapagranchose/unix-configuration"
@@ -330,7 +350,10 @@
         "svelte",
         "Svelte"
       ],
-      "keywords": 2,
+      "keywords": [
+        "svelte",
+        "Svelte"
+      ],
       "startDate": "2023-02-25",
       "updatedDate": "2023-04-06",
       "url": "https://github.com/serapagranchose/web-portfolio"
