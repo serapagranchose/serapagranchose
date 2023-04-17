@@ -8,9 +8,9 @@
     "lastName": "Perrot",
     "userName": "serapagranchose",
     "label": "Developer",
-    "image": "https://avatars.githubusercontent.com/u/68050828?s=460?v=4",
+    "image": "https://avatars.githubusercontent.com/u/68050828?s=400&u=a2ddd5fab2305b7353881e4159b7bcbff885b20d&v=4",
     "email": "seraphin.perrot@epitech.eu",
-    "phone": "(+33) 7 83 84 92 60",
+    "phone": "(+82) 010-6596-2430",
     "url": "https://serapagranchose.github.io/web-portfolio/",
     "summary": "I like to make unique projects.\nWhen I don't have my head full of ideas I simplify and optimize existing ones.\nMy main focus is web developpment but I'm curious about all technologies and I'm a quick learner.",
     "location": {
@@ -25,6 +25,11 @@
         "network": "Twitter",
         "username": "serapagranchose",
         "url": "https://twitter.com/serapagranchose"
+      },
+      {
+        "network": "Github",
+        "username": "serapagranchose",
+        "url": "https://github.com/serapagranchose"
       }
     ]
   },
@@ -137,7 +142,15 @@
       "endDate": "2020-12-01",
       "summary": "Worked on multiple showcase websites for professional companies",
       "highlights": [
-        ""
+        "React",
+        "Symfony",
+        "Laravel",
+        "PrestaShop"
+        "CRON",
+        "SQL",
+        "MySQL",
+        "PHP",
+        "PHPMyAdmin"
       ],
       "location": "Roubaix, FR",
       "preciseLocation": {
@@ -154,7 +167,8 @@
       "endDate": "2022-03-01",
       "summary": "Worked on a web app",
       "highlights": [
-        ""
+        "React",
+        "TypeScript",
       ],
       "location": "Lille, FR",
       "preciseLocation": {
@@ -171,7 +185,11 @@
       "endDate": "2022-07-01",
       "summary": "Worked on a web app",
       "highlights": [
-        ""
+        "React",
+        "Vercel",
+        "NextJs",
+        "Typescript,
+        "Storybook"
       ],
       "location": "Tourcoing, FR",
       "preciseLocation": {
@@ -210,7 +228,25 @@
       "endDate": "2013-01-01",
       "score": "",
       "courses": [
-        ""
+        "Unix System Programming (B-PSU-100/101/200/210/400/499)",
+        "Elementary Programming in C (B-CPE-100/101/110/111/130/200/201)",
+        "C Graphical Programming (B-MUL-100/200)",
+        "Concurrent Programming in C++ (B-CCP-300/400/500)",
+        "Introduction to Web Development (B-WEB-200)",
+        "AppDev: Dashboard/Redditech (B-DEV-500/501)",
+        "Year-End-Project: Indie Studio/Zappy/AREA (B-YEP-400/499/500)",
+        "Cyber Security (B-SEC-200/400/500)",
+        "Advanced DevOps (B-DOP-500)",
+        "Artificial Intelligence (B-AIA-200 500)"
+        "Networks and Systems Administration (B-NSA-100)",
+        "Computer Numerical Analysis - Trading (B-CNA-410)",
+        "Mathematics (B-MAT-100/200/400/500)",
+        "Professional Competencies (B-MET-100/200/400)",
+        "Professional Writing (B-PRO-510)",
+        "Functional programming (B-FUN-300/400)",
+        "Network Programming (B-NWP-400)",
+        "Object-Oriented Programming (B-OOP-400)",
+        "x86-64 Assembly (B-ASM-400)"
       ],
       "location": {
         "city": "Lille",
@@ -228,7 +264,16 @@
       "endDate": "2013-01-01",
       "score": "",
       "courses": [
-        ""
+        "Digital Marketing (BUS3510-001)",
+        "Machine Learning (CSE4315-002)",
+        "Korean Culture through Films (GEE1005-001)",
+        "Engineering Circuits Analysis (ICE2002-002)",
+        "System Programming (ICE3013-001)",
+        "Information Security (ICE4020-003)",
+        "Database (ECE3327-001)",
+        "Embedded System (ECE4445-001)",
+        "Mobile Communications (ECE4413-001)",
+        "Basic Korean (GEE3003-006)"
       ],
       "location": {
         "city": "Incheon",
@@ -270,7 +315,7 @@
     },
     {
       "name": "forge-repair",
-      "description": "A 2D party game made for Global Game Jam 2020 where you're blacksmith dragon",
+      "description": "A 2D party game",
       "language": "C#",
       "topics": [
         "video-game",
@@ -281,12 +326,12 @@
         "c#"
       ],
       "startDate": "2022-02-21",
-      "updatedDate": "2023-04-17",
+      "updatedDate": "2022-06-16",
       "url": "https://github.com/serapagranchose/forge-repair"
     },
     {
       "name": "serapagranchose",
-      "description": "A README.md who self update by scraping data from my gist and Github's API",
+      "description": "A README.md that serves as my Github profile page",
       "language": "JavaScript",
       "topics": [
         "readme",
@@ -297,7 +342,7 @@
         "javascript"
       ],
       "startDate": "2022-02-21",
-      "updatedDate": "2023-04-17",
+      "updatedDate": "2023-03-21",
       "url": "https://github.com/serapagranchose/serapagranchose"
     },
     {
