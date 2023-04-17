@@ -270,7 +270,7 @@
     },
     {
       "name": "forge-repair",
-      "description": "A 2D party game",
+      "description": "A 2D party game made for Global Game Jam 2020 where you're blacksmith dragon",
       "language": "C#",
       "topics": [
         "video-game",
@@ -281,12 +281,12 @@
         "c#"
       ],
       "startDate": "2022-02-21",
-      "updatedDate": "2022-06-16",
+      "updatedDate": "2023-04-17",
       "url": "https://github.com/serapagranchose/forge-repair"
     },
     {
       "name": "serapagranchose",
-      "description": "A README.md that serves as my Github profile page",
+      "description": "A README.md who self update by scraping data from my gist and Github's API",
       "language": "JavaScript",
       "topics": [
         "readme",
@@ -297,7 +297,7 @@
         "javascript"
       ],
       "startDate": "2022-02-21",
-      "updatedDate": "2023-03-21",
+      "updatedDate": "2023-04-17",
       "url": "https://github.com/serapagranchose/serapagranchose"
     },
     {
