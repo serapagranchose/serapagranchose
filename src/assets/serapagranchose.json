@@ -131,6 +131,95 @@
           "name": "Guitarist"
         }
       ]
+    },
+    {
+      "name": "Programming languages",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "PHP",
+        "Lua"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "keywords": [
+        "React",
+        "Redux",
+        "Anime.js",
+        "Chart.js",
+        "JQuery"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "React Native",
+        "Jest",
+        "Svelte",
+        "SvelteKit",
+        "Symfony",
+        "Laravel",
+        "Next.js",
+        "Vue.js"
+      ]
+    },
+    {
+      "name": "Others",
+      "keywords": [
+        "Git",
+        "Node.js",
+        "MySQL",
+        "Docker",
+        "Amazon S3"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "TOEIC: 795"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "B1"
+    },
+    {
+      "language": "Korean",
+      "fluency": "Basics"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Percussionist",
+        "Guitarist"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Climbing",
+        "Karate",
+        "Judo"
+      ],
+    },
+    {
+      "name": "Digital Artist",
+      "keywords": [
+        "Krita",
+        "Photoshop",
+        "Asesprite"
+      ]
     }
   ],
   "work": [
