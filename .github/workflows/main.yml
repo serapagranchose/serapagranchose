@@ -38,7 +38,7 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
           gist_id: bc9b8dd8959b352699aa258a7924b729
-          file_path: src/assets/serapagranchose.json
+          file_path: src/assets/resume.json
           gist_file_name: resume.json
           file_type: binary
 
