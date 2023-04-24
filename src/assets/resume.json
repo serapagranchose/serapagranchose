@@ -38,7 +38,7 @@
     ]
   },
   "skills": [
-      {
+    {
       "keywords": [
         "HTML / JSX",
         "SCSS / CSS / BEM / Styled Components",
@@ -194,7 +194,7 @@
         "countryCode": "FR",
         "region": "Haut-de-France"
       }
-    }
+    },
     {
       "name": "S Com System",
       "position": "Full Stack Developer",
