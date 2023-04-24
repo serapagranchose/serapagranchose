@@ -49,11 +49,23 @@
       "name": "Frontend"
     },
     {
-      "keywords": ["Node", "Ruby", "Python", "Postgres", "Redis", "Serverless"],
+      "keywords": [
+        "Node",
+        "Ruby",
+        "Python",
+        "Postgres",
+        "Redis",
+        "Serverless"
+      ],
       "name": "Backend"
     },
     {
-      "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
+      "keywords": [
+        "AWS",
+        "G Cloud",
+        "Heroku",
+        "Caching"
+      ],
       "name": "Devops"
     },
     {
@@ -176,8 +188,8 @@
         "countryCode": "FR",
         "region": "Haut-de-France"
       }
-   },
-   {
+    },
+    {
       "name": "Crèche A La Demande",
       "position": "Front End Developer",
       "url": "https://www.crechealademande.fr",
