@@ -1,39 +1,61 @@
 {
   "meta": {
-    "theme": "elegant"
+    "theme": "kendall"
   },
   "basics": {
     "name": "Séraphin Perrot",
     "firstName": "Séraphin",
     "lastName": "Perrot",
     "userName": "serapagranchose",
-    "label": "Developer",
-    "image": "https://avatars.githubusercontent.com/u/68050828?s=400&u=a2ddd5fab2305b7353881e4159b7bcbff885b20d&v=4",
+    "label": "Software Engineer Student",
+    "image": "https://avatars0.githubusercontent.com/u/68050828?s=400&u=a2ddd5fab2305b7353881e4159b7bcbff885b20d&v=4",
     "email": "seraphin.perrot@epitech.eu",
     "phone": "(+82) 010-6596-2430",
     "url": "https://serapagranchose.github.io/web-portfolio/",
     "summary": "I like to make unique projects.\nWhen I don't have my head full of ideas I simplify and optimize existing ones.\nMy main focus is web developpment but I'm curious about all technologies and I'm a quick learner.",
     "location": {
-      "address": "4, Impasse des quatre maisons",
-      "postalCode": "59496",
-      "city": "Salomé",
+      "postalCode": "59000",
+      "city": "Lille",
       "countryCode": "FR",
       "region": "Haut-de-France"
     },
     "profiles": [
       {
-        "network": "Twitter",
+        "network": "LinkedIn",
         "username": "serapagranchose",
-        "url": "https://twitter.com/serapagranchose"
+        "url": "https://www.linkedin.com/in/serapagranchose"
       },
       {
         "network": "Github",
         "username": "serapagranchose",
         "url": "https://github.com/serapagranchose"
+      },
+      {
+        "network": "Instagram",
+        "username": "serapagranchose",
+        "url": "https://www.instagram.com/serapagranchose"
       }
     ]
   },
   "skills": [
+      {
+      "keywords": [
+        "HTML / JSX",
+        "SCSS / CSS / BEM / Styled Components",
+        "Javascript / Typescript",
+        "React / Next",
+        "Redux / Apollo"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["Node", "Ruby", "Python", "Postgres", "Redis", "Serverless"],
+      "name": "Backend"
+    },
+    {
+      "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
+      "name": "Devops"
+    },
     {
       "tech": [
         {
@@ -135,6 +157,45 @@
   ],
   "work": [
     {
+      "name": "ChantierCarré",
+      "position": "Front End Developer",
+      "url": "https://www.chantiercarre.fr",
+      "startDate": "2022-04-01",
+      "endDate": "2022-07-01",
+      "summary": "Worked on a web application to help communication and file transfer between each workers from construction sites",
+      "highlights": [
+        "React",
+        "Vercel",
+        "NextJs",
+        "Typescript",
+        "Storybook"
+      ],
+      "location": "Tourcoing, FR",
+      "preciseLocation": {
+        "city": "Tourcoing",
+        "countryCode": "FR",
+        "region": "Haut-de-France"
+      }
+   },
+   {
+      "name": "Crèche A La Demande",
+      "position": "Front End Developer",
+      "url": "https://www.crechealademande.fr",
+      "startDate": "2021-11-01",
+      "endDate": "2022-03-01",
+      "summary": "Worked on a web application to help communication between parents in need and daycares with available spaces in their schedules",
+      "highlights": [
+        "React",
+        "TypeScript"
+      ],
+      "location": "Lille, FR",
+      "preciseLocation": {
+        "city": "Lille",
+        "countryCode": "FR",
+        "region": "Haut-de-France"
+      }
+    }
+    {
       "name": "S Com System",
       "position": "Full Stack Developer",
       "url": "https://s-com-system.fr",
@@ -158,127 +219,86 @@
         "countryCode": "FR",
         "region": "Haut-de-France"
       }
-    },
-    {
-      "name": "Crèche A La Demande",
-      "position": "Front End Developer",
-      "url": "https://www.crechealademande.fr",
-      "startDate": "2021-11-01",
-      "endDate": "2022-03-01",
-      "summary": "Worked on a web app",
-      "highlights": [
-        "React",
-        "TypeScript"
-      ],
-      "location": "Lille, FR",
-      "preciseLocation": {
-        "city": "Lille",
-        "countryCode": "FR",
-        "region": "Haut-de-France"
-      }
-    },
-    {
-      "name": "ChantierCarré",
-      "position": "Front End Developer",
-      "url": "https://www.chantiercarre.fr",
-      "startDate": "2022-04-01",
-      "endDate": "2022-07-01",
-      "summary": "Worked on a web app",
-      "highlights": [
-        "React",
-        "Vercel",
-        "NextJs",
-        "Typescript",
-        "Storybook"
-      ],
-      "location": "Tourcoing, FR",
-      "preciseLocation": {
-        "city": "Tourcoing",
-        "countryCode": "FR",
-        "region": "Haut-de-France"
-      }
     }
   ],
   "education": [
     {
-      "institution": "High School",
-      "institutionName": "André Malraux",
-      "url": "https://andre-malraux-bethune.enthdf.fr",
-      "area": "Sciences and Technologies for Industry and Sustainable Development",
-      "studyType": "Bachelor",
-      "startDate": "2020-07-01",
-      "endDate": "2020-12-01",
-      "score": "",
-      "courses": [
-        ""
-      ],
-      "location": {
-        "city": "Béthune",
-        "countryCode": "FR",
-        "region": "Haut-de-France"
-      }
-    },
-    {
-      "institution": "University",
-      "institutionName": "Epitech",
-      "url": "https://www.epitech.eu/fr/formations/epitech-en-5-ans",
-      "area": "Programmation",
-      "studyType": "Engineer",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "",
-      "courses": [
-        "Unix System Programming (B-PSU-100/101/200/210/400/499)",
-        "Elementary Programming in C (B-CPE-100/101/110/111/130/200/201)",
-        "C Graphical Programming (B-MUL-100/200)",
-        "Concurrent Programming in C++ (B-CCP-300/400/500)",
-        "Introduction to Web Development (B-WEB-200)",
-        "AppDev: Dashboard/Redditech (B-DEV-500/501)",
-        "Year-End-Project: Indie Studio/Zappy/AREA (B-YEP-400/499/500)",
-        "Cyber Security (B-SEC-200/400/500)",
-        "Advanced DevOps (B-DOP-500)",
-        "Artificial Intelligence (B-AIA-200 500)",
-        "Networks and Systems Administration (B-NSA-100)",
-        "Computer Numerical Analysis - Trading (B-CNA-410)",
-        "Mathematics (B-MAT-100/200/400/500)",
-        "Professional Competencies (B-MET-100/200/400)",
-        "Professional Writing (B-PRO-510)",
-        "Functional programming (B-FUN-300/400)",
-        "Network Programming (B-NWP-400)",
-        "Object-Oriented Programming (B-OOP-400)",
-        "x86-64 Assembly (B-ASM-400)"
-      ],
-      "location": {
-        "city": "Lille",
-        "countryCode": "FR",
-        "region": "Haut-de-France"
-      }
-    },
-    {
-      "institution": "University",
-      "institutionName": "Inha",
+      "institution": "Inha University",
+      "institutionName": "Inha University",
       "url": "https://eng.inha.ac.kr/eng/index.do",
-      "area": "Programmation",
-      "studyType": "Engineer",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
+      "area": "Information and Communication Engineering",
+      "studyType": "Exchange students",
+      "startDate": "2022-09-01",
       "score": "",
       "courses": [
-        "Digital Marketing (BUS3510-001)",
-        "Machine Learning (CSE4315-002)",
-        "Korean Culture through Films (GEE1005-001)",
-        "Engineering Circuits Analysis (ICE2002-002)",
-        "System Programming (ICE3013-001)",
-        "Information Security (ICE4020-003)",
-        "Database (ECE3327-001)",
-        "Embedded System (ECE4445-001)",
-        "Mobile Communications (ECE4413-001)",
-        "Basic Korean (GEE3003-006)"
+        "Digital Marketing",
+        "Machine Learning",
+        "Korean Culture through Films",
+        "Engineering Circuits Analysis",
+        "System Programming",
+        "Information Security",
+        "Database",
+        "Embedded System",
+        "Mobile Communications",
+        "Basic Korean"
       ],
       "location": {
         "city": "Incheon",
         "countryCode": "KR",
         "region": "Incheon"
+      }
+    },
+    {
+      "institution": "Epitech",
+      "institutionName": "Epitech",
+      "url": "https://www.epitech.eu/fr/formations/epitech-en-5-ans",
+      "area": "Software Engineer",
+      "studyType": "Master",
+      "startDate": "2019-09-01",
+      "score": "",
+      "courses": [
+        "Unix System Programming",
+        "Elementary Programming in C",
+        "C Graphical Programming",
+        "Concurrent Programming in C++",
+        "Introduction to Web Development",
+        "AppDev: Dashboard/Redditech",
+        "Year-End-Project: Indie Studio/Zappy/AREA",
+        "Cyber Security",
+        "Advanced DevOps",
+        "Artificial Intelligence",
+        "Networks and Systems Administration",
+        "Computer Numerical Analysis - Trading",
+        "Mathematics",
+        "Professional Competencies",
+        "Professional Writing",
+        "Functional programming",
+        "Network Programming",
+        "Object-Oriented Programming",
+        "x86-64 Assembly"
+      ],
+      "location": {
+        "city": "Lille",
+        "countryCode": "FR",
+        "region": "Haut-de-France"
+      }
+    },
+    {
+      "institution": "André Malraux High School",
+      "institutionName": "André Malraux High School",
+      "url": "https://andre-malraux-bethune.enthdf.fr",
+      "area": "Sciences and Technologies for Industry and Sustainable Development",
+      "studyType": "Bachelor",
+      "startDate": "2016-07-01",
+      "endDate": "2019-12-01",
+      "score": "",
+      "courses": [
+        "Information and Digital Science"
+      ],
+      "location": {
+        "city": "Béthune",
+        "countryCode": "FR",
+        "region": "Haut-de-France"
       }
     }
   ],
@@ -417,6 +437,23 @@
         "RespirH@cktion 2021",
         "Solidays 2022"
       ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Musician (Percusionist)"
+    },
+    {
+      "name": "3D Modeling/Printing"
+    },
+    {
+      "name": "Pixel Art artist"
+    },
+    {
+      "name": "Rock Climbing"
+    },
+    {
+      "name": "Reading"
     }
   ]
 }
