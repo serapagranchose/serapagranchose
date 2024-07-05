@@ -10,8 +10,8 @@
     "label": "Software Engineer Student",
     "image": "https://avatars0.githubusercontent.com/u/68050828?s=400&u=a2ddd5fab2305b7353881e4159b7bcbff885b20d&v=4",
     "email": "seraphin.perrot@epitech.eu",
-    "phone": "(+82) 010-6596-2430",
-    "url": "https://serapagranchose.github.io/web-portfolio/",
+    "phone": "(+33) 07 83 84 92 60",
+    "url": "https://registry.jsonresume.org/serapagranchose",
     "summary": "I like to make unique projects.\nWhen I don't have my head full of ideas I simplify and optimize existing ones.\nMy main focus is web developpment but I'm curious about all technologies and I'm a quick learner.",
     "location": {
       "postalCode": "59000",
@@ -241,6 +241,7 @@
       "area": "Information and Communication Engineering",
       "studyType": "Exchange students",
       "startDate": "2022-09-01",
+      "endDate": "2023-09-01",
       "score": "",
       "courses": [
         "Digital Marketing",
@@ -315,6 +316,11 @@
     }
   ],
   "projects": [
+    {
+      "name": "DEDAL",
+      "description": "An application that generate itiniraries to discover cities adapted to the filters of the users",
+      "isup": true
+    },
     {
       "name": "dungeon-sweeper",
       "description": "A game that makes you control a knight in a misty dungeon filled with monsters",
