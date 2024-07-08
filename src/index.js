@@ -45,9 +45,11 @@ async function mergeGhGistData(json) {
   mergeData = data
 
   for (let index = 0; index < json.length; index++) {
+    console.log("Getting data from \"" + json[index].name + "\" project")
     if (json[index].language && !json[index].topics.some(elem => elem.toLowerCase() === json[index].language.toLowerCase()))
       json[index].topics.push(json[index].language.toLowerCase())
     mergeData.projects[index] = {
+      ...mergeData.projects[index],
       "name": json[index].name,
       "description": json[index].description,
       "language": json[index].language,
@@ -57,7 +59,6 @@ async function mergeGhGistData(json) {
       "updatedDate": json[index].updated_at.substring(0, 10),
       "url": json[index].html_url,
     }
-    console.log("Getting data from \"" + json[index].name + "\" project")
   }
 
   return JSON.stringify(mergeData, null, 2)
