@@ -317,18 +317,11 @@
   ],
   "projects": [
     {
-      "name": "dedal",
-      "description": null,
-      "language": "Dart",
-      "topics": [
-        "dart"
-      ],
-      "keywords": [
-        "dart"
-      ],
-      "startDate": "2024-07-05",
-      "updatedDate": "2024-07-05",
-      "url": "https://github.com/serapagranchose/dedal"
+      "name": "DEDAL",
+      "description": "An application that generate itiniraries to discover cities adapted to the filters of the users",
+      "url": "https://github.com/serapagranchose/dedal",
+      "thumbnail_url": "https://raw.githubusercontent.com/serapagranchose/dedal/main/assets/images/thumbnail.png",
+      "isup": true
     },
     {
       "name": "dungeon-sweeper",
@@ -343,8 +336,23 @@
         "gdscript"
       ],
       "startDate": "2022-03-24",
-      "updatedDate": "2024-07-08",
-      "url": "https://github.com/serapagranchose/dungeon-sweeper"
+      "updatedDate": "2022-07-08",
+      "url": "https://github.com/serapagranchose/dungeon-sweeper",
+      "thumbnail_url": "https://raw.githubusercontent.com/serapagranchose/dungeon-sweeper/main/assets/images/thumbnail.gif"
+    },
+    {
+      "name": "epitech-inha-qa",
+      "description": "A documentation for Epitech students at Inha Korean University",
+      "language": null,
+      "topics": [
+        "readme"
+      ],
+      "keywords": [
+        "readme"
+      ],
+      "startDate": "2022-05-31",
+      "updatedDate": "2023-04-06",
+      "url": "https://github.com/serapagranchose/epitech-inha-qa"
     },
     {
       "name": "forge-repair",
@@ -359,36 +367,9 @@
         "c#"
       ],
       "startDate": "2022-02-21",
-      "updatedDate": "2024-07-05",
-      "url": "https://github.com/serapagranchose/forge-repair"
-    },
-    {
-      "name": "indiestudio",
-      "description": null,
-      "language": "C++",
-      "topics": [
-        "c++"
-      ],
-      "keywords": [
-        "c++"
-      ],
-      "startDate": "2024-07-05",
-      "updatedDate": "2024-07-05",
-      "url": "https://github.com/serapagranchose/indiestudio"
-    },
-    {
-      "name": "meteor-test",
-      "description": null,
-      "language": "JavaScript",
-      "topics": [
-        "javascript"
-      ],
-      "keywords": [
-        "javascript"
-      ],
-      "startDate": "2023-08-04",
-      "updatedDate": "2023-08-04",
-      "url": "https://github.com/serapagranchose/meteor-test"
+      "updatedDate": "2023-04-17",
+      "url": "https://github.com/serapagranchose/forge-repair",
+      "thumbnail_url": "https://raw.githubusercontent.com/serapagranchose/forge-repair/main/assets/images/thumbnail.png"
     },
     {
       "name": "serapagranchose",
@@ -403,8 +384,9 @@
         "javascript"
       ],
       "startDate": "2022-02-21",
-      "updatedDate": "2024-07-08",
-      "url": "https://github.com/serapagranchose/serapagranchose"
+      "updatedDate": "2023-04-17",
+      "url": "https://github.com/serapagranchose/serapagranchose",
+      "isup": true
     },
     {
       "name": "sight-cycle",
@@ -434,7 +416,8 @@
       ],
       "startDate": "2022-09-26",
       "updatedDate": "2023-04-06",
-      "url": "https://github.com/serapagranchose/theme-setter"
+      "url": "https://github.com/serapagranchose/theme-setter",
+      "isup": true
     },
     {
       "name": "unix-configuration",
@@ -453,46 +436,18 @@
       "url": "https://github.com/serapagranchose/unix-configuration"
     },
     {
-      "name": "vampire-survivor",
-      "description": null,
-      "language": "Python",
+      "name": "web-portfolio",
+      "description": "A Sveltekit website to show my projects",
+      "language": "Svelte",
       "topics": [
-        "python"
+        "svelte"
       ],
       "keywords": [
-        "python"
+        "svelte"
       ],
-      "startDate": "2024-07-05",
-      "updatedDate": "2024-07-05",
-      "url": "https://github.com/serapagranchose/vampire-survivor"
-    },
-    {
-      "name": "website",
-      "description": null,
-      "language": "JavaScript",
-      "topics": [
-        "javascript"
-      ],
-      "keywords": [
-        "javascript"
-      ],
-      "startDate": "2024-07-04",
-      "updatedDate": "2024-07-05",
-      "url": "https://github.com/serapagranchose/website"
-    },
-    {
-      "name": "xrp-ledger-formation",
-      "description": null,
-      "language": "JavaScript",
-      "topics": [
-        "javascript"
-      ],
-      "keywords": [
-        "javascript"
-      ],
-      "startDate": "2024-03-01",
-      "updatedDate": "2024-04-12",
-      "url": "https://github.com/serapagranchose/xrp-ledger-formation"
+      "startDate": "2023-02-25",
+      "updatedDate": "2023-04-06",
+      "url": "https://github.com/serapagranchose/web-portfolio"
     }
   ],
   "volunteer": [
