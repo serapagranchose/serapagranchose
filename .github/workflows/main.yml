@@ -34,14 +34,14 @@ jobs:
       - name: Generate README file
         run: node src/index.js
 
-      - name: Deploy to Gist
-        uses: exuanbo/actions-deploy-gist@v1.1.4
+      - name: Sync to Gist
+        uses: Popsiclestick/gist-sync-action@v1.2.0
         with:
-          token: ${{ secrets.TOKEN }}
-          gist_id: serapagranchose/bc9b8dd8959b352699aa258a7924b729
-          file_path: src/assets/resume.json
-          gist_file_name: resume.json
-          file_type: binary
+          auth: ${{ secrets.TOKEN }}
+          gist_url: https://gist.github.com/serapagranchose/bc9b8dd8959b352699aa258a7924b729
+          gist_title: resume.json
+          gist_description: Example Gist Description
+          github_file: src/assets/resume.json
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
