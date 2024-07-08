@@ -33,8 +33,9 @@ jobs:
 
       - name: Generate README file
         run: node src/index.js
-        
-      - uses: exuanbo/actions-deploy-gist@v1
+
+      - name: Deploy to Gist
+        uses: exuanbo/actions-deploy-gist@v1.1.4
         with:
           token: ${{ secrets.TOKEN }}
           gist_id: bc9b8dd8959b352699aa258a7924b729
