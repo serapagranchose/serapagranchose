@@ -381,21 +381,6 @@
       "thumbnail_url": "https://raw.githubusercontent.com/serapagranchose/forge-repair/main/assets/images/thumbnail.png"
     },
     {
-      "name": "meteor-test",
-      "description": null,
-      "language": "JavaScript",
-      "topics": [
-        "javascript"
-      ],
-      "keywords": [
-        "javascript"
-      ],
-      "startDate": "2023-08-04",
-      "updatedDate": "2023-08-04",
-      "url": "https://github.com/serapagranchose/meteor-test",
-      "isup": true
-    },
-    {
       "name": "serapagranchose",
       "description": "A README.md who self update by scraping data from my gist and Github's API",
       "language": "JavaScript",
@@ -409,7 +394,8 @@
       ],
       "startDate": "2022-02-21",
       "updatedDate": "2024-07-08",
-      "url": "https://github.com/serapagranchose/serapagranchose"
+      "url": "https://github.com/serapagranchose/serapagranchose",
+      "isup": true
     },
     {
       "name": "sight-cycle",
@@ -425,8 +411,7 @@
       ],
       "startDate": "2022-01-28",
       "updatedDate": "2022-06-16",
-      "url": "https://github.com/serapagranchose/sight-cycle",
-      "isup": true
+      "url": "https://github.com/serapagranchose/sight-cycle"
     },
     {
       "name": "theme-setter",
@@ -440,7 +425,8 @@
       ],
       "startDate": "2022-09-26",
       "updatedDate": "2023-04-06",
-      "url": "https://github.com/serapagranchose/theme-setter"
+      "url": "https://github.com/serapagranchose/theme-setter",
+      "isup": true
     },
     {
       "name": "unix-configuration",
@@ -455,7 +441,7 @@
         "shell"
       ],
       "startDate": "2022-03-18",
-      "updatedDate": "2022-07-08",
+      "updatedDate": "2024-07-08",
       "url": "https://github.com/serapagranchose/unix-configuration"
     },
     {
@@ -485,6 +471,20 @@
       "startDate": "2024-07-04",
       "updatedDate": "2024-07-05",
       "url": "https://github.com/serapagranchose/website"
+    },
+    {
+      "name": "xrp-ledger-formation",
+      "description": null,
+      "language": "JavaScript",
+      "topics": [
+        "javascript"
+      ],
+      "keywords": [
+        "javascript"
+      ],
+      "startDate": "2024-03-01",
+      "updatedDate": "2024-07-08",
+      "url": "https://github.com/serapagranchose/xrp-ledger-formation"
     },
     {
       "name": "xrp-ledger-formation",

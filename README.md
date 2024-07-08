@@ -40,13 +40,13 @@ My main focus is web developpment but I&#39;m curious about all technologies and
 - **[dungeon-sweeper](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;dungeon-sweeper):** A game that makes you control a knight in a misty dungeon filled with monsters
 - **[forge-repair](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;forge-repair):** A 2D party game made for Global Game Jam 2020 where you&#39;re blacksmith dragon
 - **[indiestudio](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;indiestudio):** 
-- **[meteor-test](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;meteor-test):** 
 - **[serapagranchose](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;serapagranchose):** A README.md who self update by scraping data from my gist and Github&#39;s API
 - **[sight-cycle](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;sight-cycle):** A 2D game that wavers between the classic platformer and the puzzle-game
 - **[theme-setter](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;theme-setter):** A script to randomly set an animated wallpaper and set my color theme
 - **[unix-configuration](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;unix-configuration):** A script that sets my configuration on unix systems
 - **[vampire-survivor](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;vampire-survivor):** 
 - **[website](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;website):** 
+- **[xrp-ledger-formation](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;xrp-ledger-formation):** 
 - **[xrp-ledger-formation](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;xrp-ledger-formation):** 
 
 ## Non-tech related Skills:
