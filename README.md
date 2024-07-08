@@ -29,21 +29,25 @@ My main focus is web developpment but I&#39;m curious about all technologies and
 
 ## Education:
 - **Information and Communication Engineering Exchange students** at [Inha University](https:&#x2F;&#x2F;eng.inha.ac.kr&#x2F;eng&#x2F;index.do):  
-    Incheon, KR - 2022-09-01 to 
+    Incheon, KR - 2022-09-01 to 2023-09-01
 - **Software Engineer Master** at [Epitech](https:&#x2F;&#x2F;www.epitech.eu&#x2F;fr&#x2F;formations&#x2F;epitech-en-5-ans):  
     Lille, FR - 2019-09-01 to 
 - **Sciences and Technologies for Industry and Sustainable Development Bachelor** at [André Malraux High School](https:&#x2F;&#x2F;andre-malraux-bethune.enthdf.fr):  
     Béthune, FR - 2016-07-01 to 2019-12-01
 
 ## Projects:
+- **[dedal](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;dedal):** 
 - **[dungeon-sweeper](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;dungeon-sweeper):** A game that makes you control a knight in a misty dungeon filled with monsters
-- **[epitech-inha-qa](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;epitech-inha-qa):** A documentation for Epitech students at Inha Korean University
 - **[forge-repair](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;forge-repair):** A 2D party game made for Global Game Jam 2020 where you&#39;re blacksmith dragon
+- **[indiestudio](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;indiestudio):** 
+- **[meteor-test](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;meteor-test):** 
 - **[serapagranchose](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;serapagranchose):** A README.md who self update by scraping data from my gist and Github&#39;s API
 - **[sight-cycle](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;sight-cycle):** A 2D game that wavers between the classic platformer and the puzzle-game
 - **[theme-setter](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;theme-setter):** A script to randomly set an animated wallpaper and set my color theme
 - **[unix-configuration](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;unix-configuration):** A script that sets my configuration on unix systems
-- **[web-portfolio](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;web-portfolio):** A Sveltekit website to show my projects
+- **[vampire-survivor](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;vampire-survivor):** 
+- **[website](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;website):** 
+- **[xrp-ledger-formation](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;xrp-ledger-formation):** 
 
 ## Non-tech related Skills:
 - **Languages:**
