@@ -367,7 +367,7 @@
     },
     {
       "name": "indiestudio",
-      "description": null,
+      "description": "A year-end school project that is a cpp bomberman clone using raylib for graphics.",
       "language": "C++",
       "topics": [
         "c++"
@@ -376,7 +376,7 @@
         "c++"
       ],
       "startDate": "2024-07-05",
-      "updatedDate": "2024-07-05",
+      "updatedDate": "2024-07-09",
       "url": "https://github.com/serapagranchose/indiestudio",
       "status": "finished"
     },
@@ -425,7 +425,7 @@
         "shell"
       ],
       "startDate": "2022-09-26",
-      "updatedDate": "2023-04-06",
+      "updatedDate": "2024-07-09",
       "url": "https://github.com/serapagranchose/theme-setter",
       "status": "finished"
     },
@@ -448,7 +448,7 @@
     },
     {
       "name": "vampire-survivor",
-      "description": null,
+      "description": "A game made during the Mini Jame Gam #26.",
       "language": "Python",
       "topics": [
         "python"
