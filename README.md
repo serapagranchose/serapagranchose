@@ -47,7 +47,6 @@ My main focus is web developpment but I&#39;m curious about all technologies and
 - **[vampire-survivor](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;vampire-survivor):** 
 - **[website](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;website):** 
 - **[xrp-ledger-formation](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;xrp-ledger-formation):** 
-- **[xrp-ledger-formation](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;xrp-ledger-formation):** 
 
 ## Non-tech related Skills:
 - **Languages:**
