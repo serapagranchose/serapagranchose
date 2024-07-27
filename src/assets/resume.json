@@ -332,6 +332,17 @@
       "status": "finished"
     },
     {
+      "name": "djt36-4",
+      "description": null,
+      "language": null,
+      "topics": [],
+      "keywords": [],
+      "startDate": "2024-07-27",
+      "updatedDate": "2024-07-27",
+      "url": "https://github.com/serapagranchose/djt36-4",
+      "status": "on going"
+    },
+    {
       "name": "dungeon-sweeper",
       "description": "A game that makes you control a knight in a misty dungeon filled with monsters",
       "language": "GDScript",
@@ -346,7 +357,7 @@
       "startDate": "2022-03-24",
       "updatedDate": "2024-07-08",
       "url": "https://github.com/serapagranchose/dungeon-sweeper",
-      "status": "on going"
+      "status": "finished"
     },
     {
       "name": "forge-repair",
@@ -459,7 +470,7 @@
       "startDate": "2024-07-05",
       "updatedDate": "2024-07-09",
       "url": "https://github.com/serapagranchose/vampire-survivor",
-      "status": "finished"
+      "status": "on going"
     },
     {
       "name": "website",
@@ -474,7 +485,7 @@
       "startDate": "2024-07-04",
       "updatedDate": "2024-07-09",
       "url": "https://github.com/serapagranchose/website",
-      "status": "on going"
+      "status": "finished"
     },
     {
       "name": "xrp-ledger-formation",
@@ -488,8 +499,7 @@
       ],
       "startDate": "2024-03-01",
       "updatedDate": "2024-07-08",
-      "url": "https://github.com/serapagranchose/xrp-ledger-formation",
-      "status": "finished"
+      "url": "https://github.com/serapagranchose/xrp-ledger-formation"
     }
   ],
   "volunteer": [
