@@ -17,6 +17,9 @@ My main focus is web developpment but I&#39;m curious about all technologies and
     - Git,Node.js,MySQL,Docker,Amazon S3
 
 ## Works:
+- **Full Stack Developer** at [KBRW](https:&#x2F;&#x2F;www.kbrw.com&#x2F;fr):  
+    Worked on WMS development to optimize the supply chain for a LVMH group project  
+    Lille, FR - 2024-03-01 to 2024-06-01
 - **Front End Developer** at [ChantierCarré](https:&#x2F;&#x2F;www.chantiercarre.fr):  
     Worked on a web application to help communication and file transfer between each workers from construction sites  
     Tourcoing, FR - 2022-04-01 to 2022-07-01
