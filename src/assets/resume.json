@@ -364,7 +364,7 @@
       "startDate": "2024-07-05",
       "updatedDate": "2024-07-05",
       "url": "https://github.com/serapagranchose/dedal",
-      "status": "ongoing"
+      "status": "finished"
     },
     {
       "name": "dungeon-sweeper",
@@ -430,7 +430,7 @@
       "startDate": "2022-02-21",
       "updatedDate": "2024-09-04",
       "url": "https://github.com/serapagranchose/serapagranchose",
-      "status": "finished"
+      "status": "ongoing"
     },
     {
       "name": "sight-cycle",
@@ -494,7 +494,7 @@
       "startDate": "2024-07-05",
       "updatedDate": "2024-07-09",
       "url": "https://github.com/serapagranchose/vampire-survivor",
-      "status": "ongoing"
+      "status": "finished"
     },
     {
       "name": "website",
@@ -509,7 +509,7 @@
       "startDate": "2024-07-04",
       "updatedDate": "2024-09-04",
       "url": "https://github.com/serapagranchose/website",
-      "status": "finished"
+      "status": "ongoing"
     },
     {
       "name": "xrp-ledger-formation",
@@ -523,7 +523,8 @@
       ],
       "startDate": "2024-03-01",
       "updatedDate": "2024-07-08",
-      "url": "https://github.com/serapagranchose/xrp-ledger-formation"
+      "url": "https://github.com/serapagranchose/xrp-ledger-formation",
+      "status": "finished"
     }
   ],
   "volunteer": [
