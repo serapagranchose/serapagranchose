@@ -37,6 +37,27 @@
       }
     ]
   },
+  "config": [
+    {
+      "name": "Fraktal",
+      "type": "PC",
+      "OS": "Windows 11",
+      "Disk": "1To",
+      "Memory": "32GB",
+      "CPU": "AMD Ryzen 7 7800X3D 8-Core Processor",
+      "GPU": "AMD Radeon R7 200 Series"
+    },
+    {
+      "name": "Framework",
+      "type": "Laptop",
+      "OS": "Ubuntu 22.04.4",
+      "WM": "i3",
+      "Disk": "1To",
+      "Memory": "16GB",
+      "CPU": "Intel 11th Gen 1165G7 8-Core Processor",
+      "GPU": "Intel TigerLake-LP GT2"
+    }
+  ],
   "skills": [
     {
       "keywords": [
