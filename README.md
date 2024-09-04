@@ -40,7 +40,7 @@ My main focus is web developpment but I&#39;m curious about all technologies and
 
 ## Projects:
 - **[bloodmoonlight](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;bloodmoonlight):** A game made during the Devs That Jam #4.
-- **[dedal](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;dedal):** 
+- **[dedal](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;dedal):** A mobile application to generate customized discovery tours of your environment
 - **[dungeon-sweeper](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;dungeon-sweeper):** A game that makes you control a knight in a misty dungeon filled with monsters
 - **[forge-repair](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;forge-repair):** A 2D party game made for Global Game Jam 2020 where you&#39;re blacksmith dragon
 - **[indiestudio](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;indiestudio):** A year-end school project that is a cpp bomberman clone using raylib for graphics.
@@ -49,8 +49,8 @@ My main focus is web developpment but I&#39;m curious about all technologies and
 - **[theme-setter](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;theme-setter):** A script to randomly set an animated wallpaper and set my color theme
 - **[unix-configuration](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;unix-configuration):** A script that sets my configuration on unix systems
 - **[vampire-survivor](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;vampire-survivor):** A game made during the Mini Jame Gam #26.
-- **[website](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;website):** 
-- **[xrp-ledger-formation](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;xrp-ledger-formation):** 
+- **[website](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;website):** A website to show my dev projects.
+- **[xrp-ledger-formation](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;xrp-ledger-formation):** A mockup app to trade real assets NFT using xrp ledger&#39;s API.
 
 ## Non-tech related Skills:
 - **Languages:**

@@ -353,7 +353,7 @@
     },
     {
       "name": "dedal",
-      "description": null,
+      "description": "A mobile application to generate customized discovery tours of your environment",
       "language": "Dart",
       "topics": [
         "dart"
@@ -362,7 +362,7 @@
         "dart"
       ],
       "startDate": "2024-07-05",
-      "updatedDate": "2024-07-05",
+      "updatedDate": "2024-09-04",
       "url": "https://github.com/serapagranchose/dedal",
       "status": "finished"
     },
@@ -498,7 +498,7 @@
     },
     {
       "name": "website",
-      "description": null,
+      "description": "A website to show my dev projects.",
       "language": "JavaScript",
       "topics": [
         "javascript"
@@ -513,7 +513,7 @@
     },
     {
       "name": "xrp-ledger-formation",
-      "description": null,
+      "description": "A mockup app to trade real assets NFT using xrp ledger's API.",
       "language": "JavaScript",
       "topics": [
         "javascript"
@@ -522,7 +522,7 @@
         "javascript"
       ],
       "startDate": "2024-03-01",
-      "updatedDate": "2024-07-08",
+      "updatedDate": "2024-09-04",
       "url": "https://github.com/serapagranchose/xrp-ledger-formation",
       "status": "finished"
     }
