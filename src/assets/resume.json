@@ -169,6 +169,26 @@
   ],
   "work": [
     {
+      "name": "KBRW",
+      "position": "Full Stack Developer",
+      "url": "https://www.kbrw.com/fr",
+      "startDate": "2024-03-01",
+      "endDate": "2024-06-01",
+      "summary": "Worked on WMS development to optimize the supply chain for a LVMH group project",
+      "highlights": [
+        "React",
+        "Elixir",
+        "Rest",
+        "Webflow"
+      ],
+      "location": "Lille, FR",
+      "preciseLocation": {
+        "city": "Lille",
+        "countryCode": "FR",
+        "region": "Haut-de-France"
+      }
+    },
+    {
       "name": "ChantierCarré",
       "position": "Front End Developer",
       "url": "https://www.chantiercarre.fr",
