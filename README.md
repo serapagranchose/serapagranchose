@@ -40,6 +40,7 @@ My main focus is web developpment but I&#39;m curious about all technologies and
 
 ## Projects:
 - **[bloodmoonlight](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;bloodmoonlight):** A game made during the Devs That Jam #4.
+- **[blueprint](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;blueprint):** A school project using Blueprint and Unreal Engine 5.
 - **[dedal](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;dedal):** A mobile application to generate customized discovery tours of your environment
 - **[dungeon-sweeper](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;dungeon-sweeper):** A game that makes you control a knight in a misty dungeon filled with monsters
 - **[forge-repair](https:&#x2F;&#x2F;github.com&#x2F;serapagranchose&#x2F;forge-repair):** A 2D party game made for Global Game Jam 2020 where you&#39;re blacksmith dragon
